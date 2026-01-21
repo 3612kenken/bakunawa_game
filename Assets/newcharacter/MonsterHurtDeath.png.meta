@@ -1,0 +1,1051 @@
+fileFormatVersion: 2
+guid: 472a7a5cad8252d45b54cc16d1bd1273
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8446016789639179614
+    second: MonsterHurtDeath_0
+  - first:
+      213: -1859022077532998947
+    second: MonsterHurtDeath_1
+  - first:
+      213: 7014163995600885279
+    second: MonsterHurtDeath_2
+  - first:
+      213: -3837966554500642422
+    second: MonsterHurtDeath_3
+  - first:
+      213: 2548129505533441442
+    second: MonsterHurtDeath_4
+  - first:
+      213: -6098496992711401104
+    second: MonsterHurtDeath_5
+  - first:
+      213: 2201135880521546184
+    second: MonsterHurtDeath_6
+  - first:
+      213: 3720152277043398852
+    second: MonsterHurtDeath_7
+  - first:
+      213: 8291623198862125823
+    second: MonsterHurtDeath_8
+  - first:
+      213: -2074460497701763842
+    second: MonsterHurtDeath_9
+  - first:
+      213: 7680384058399037073
+    second: MonsterHurtDeath_10
+  - first:
+      213: -8338768237459251678
+    second: MonsterHurtDeath_11
+  - first:
+      213: 7089028791621359195
+    second: MonsterHurtDeath_12
+  - first:
+      213: 6512576220162304776
+    second: MonsterHurtDeath_13
+  - first:
+      213: 9041159905164454568
+    second: MonsterHurtDeath_14
+  - first:
+      213: -2154071744409118343
+    second: MonsterHurtDeath_15
+  - first:
+      213: -3529047405443070431
+    second: MonsterHurtDeath_16
+  - first:
+      213: -2787998484746659896
+    second: MonsterHurtDeath_17
+  - first:
+      213: -3962428526031990164
+    second: MonsterHurtDeath_18
+  - first:
+      213: 9048664482535810272
+    second: MonsterHurtDeath_19
+  - first:
+      213: -3302296126398347148
+    second: MonsterHurtDeath_20
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: MonsterHurtDeath_0
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 4704
+        width: 346
+        height: 368
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a2529e8a78b9ca80800000000000000
+      internalID: -8446016789639179614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonsterHurtDeath_1
+      rect:
+        serializedVersion: 2
+        x: 2707
+        y: 4704
+        width: 363
+        height: 365
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd2790f154d6336e0800000000000000
+      internalID: -1859022077532998947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonsterHurtDeath_2
+      rect:
+        serializedVersion: 2
+        x: 4617
+        y: 4704
+        width: 351
+        height: 377
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f16102acdf0575160800000000000000
+      internalID: 7014163995600885279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonsterHurtDeath_3
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 3624
+        width: 350
+        height: 382
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a89c82bc0cdccbac0800000000000000
+      internalID: -3837966554500642422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonsterHurtDeath_4
+      rect:
+        serializedVersion: 2
+        x: 1083
+        y: 3900
+        width: 29
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a53303e846cc5320800000000000000
+      internalID: 2548129505533441442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonsterHurtDeath_5
+      rect:
+        serializedVersion: 2
+        x: 2668
+        y: 3627
+        width: 340
+        height: 374
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07126addb49cd5ba0800000000000000
+      internalID: -6098496992711401104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonsterHurtDeath_6
+      rect:
+        serializedVersion: 2
+        x: 3003
+        y: 3900
+        width: 30
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c97ad4db610c8e10800000000000000
+      internalID: 2201135880521546184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonsterHurtDeath_7
+      rect:
+        serializedVersion: 2
+        x: 4592
+        y: 3630
+        width: 354
+        height: 367
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c8488729c2a0a330800000000000000
+      internalID: 3720152277043398852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonsterHurtDeath_8
+      rect:
+        serializedVersion: 2
+        x: 4923
+        y: 3900
+        width: 28
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffaa0935e53c11370800000000000000
+      internalID: 8291623198862125823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonsterHurtDeath_9
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 2510
+        width: 278
+        height: 470
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef408e51b290633e0800000000000000
+      internalID: -2074460497701763842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonsterHurtDeath_10
+      rect:
+        serializedVersion: 2
+        x: 1104
+        y: 2746
+        width: 36
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1969273db94369a60800000000000000
+      internalID: 7680384058399037073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonsterHurtDeath_11
+      rect:
+        serializedVersion: 2
+        x: 2724
+        y: 2528
+        width: 261
+        height: 463
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22e5eedf77eb64c80800000000000000
+      internalID: -8338768237459251678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonsterHurtDeath_12
+      rect:
+        serializedVersion: 2
+        x: 2983
+        y: 2741
+        width: 39
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b569b1f602a416260800000000000000
+      internalID: 7089028791621359195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonsterHurtDeath_13
+      rect:
+        serializedVersion: 2
+        x: 4652
+        y: 2510
+        width: 301
+        height: 433
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80b2e6f2191516a50800000000000000
+      internalID: 6512576220162304776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonsterHurtDeath_14
+      rect:
+        serializedVersion: 2
+        x: 4932
+        y: 2738
+        width: 39
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8aae4d81807a87d70800000000000000
+      internalID: 9041159905164454568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonsterHurtDeath_15
+      rect:
+        serializedVersion: 2
+        x: 4603
+        y: 2703
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 979d9c549233b12e0800000000000000
+      internalID: -2154071744409118343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonsterHurtDeath_16
+      rect:
+        serializedVersion: 2
+        x: 778
+        y: 2685
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1264d0b151e460fc0800000000000000
+      internalID: -3529047405443070431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonsterHurtDeath_17
+      rect:
+        serializedVersion: 2
+        x: 2658
+        y: 2692
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c7195a462a0f49d0800000000000000
+      internalID: -2787998484746659896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonsterHurtDeath_18
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 1537
+        width: 278
+        height: 470
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c621df9df30a209c0800000000000000
+      internalID: -3962428526031990164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonsterHurtDeath_19
+      rect:
+        serializedVersion: 2
+        x: 1062
+        y: 1773
+        width: 39
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e4ad3da760539d70800000000000000
+      internalID: 9048664482535810272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonsterHurtDeath_20
+      rect:
+        serializedVersion: 2
+        x: 2685
+        y: 1557
+        width: 261
+        height: 463
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 478c0ea5b23eb22d0800000000000000
+      internalID: -3302296126398347148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonsterHurtDeath_21
+      rect:
+        serializedVersion: 2
+        x: 2944
+        y: 1768
+        width: 41
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 959e4815fc29b514db022c4064a439cd
+      internalID: 1663856437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonsterHurtDeath_22
+      rect:
+        serializedVersion: 2
+        x: 4614
+        y: 1537
+        width: 298
+        height: 433
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0add9fa0536a4d148b110a361b4f10e5
+      internalID: -1352620764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonsterHurtDeath_23
+      rect:
+        serializedVersion: 2
+        x: 4892
+        y: 1762
+        width: 40
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfebbd7dc556da042aabd978625f8b01
+      internalID: -755189652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonsterHurtDeath_24
+      rect:
+        serializedVersion: 2
+        x: 4565
+        y: 1730
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac2fcf06276a72240a380a030af47b25
+      internalID: 1990722864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonsterHurtDeath_25
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 1712
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e88709d1a67b73468eb77fd2f01c064
+      internalID: -1867716932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonsterHurtDeath_26
+      rect:
+        serializedVersion: 2
+        x: 2620
+        y: 1718
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f97b7d088ca487347b339a8eaf022d90
+      internalID: 504481650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonsterHurtDeath_27
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 420
+        width: 278
+        height: 467
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24a10229222347a44b0cb27af00376e3
+      internalID: 563177139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonsterHurtDeath_28
+      rect:
+        serializedVersion: 2
+        x: 1062
+        y: 654
+        width: 40
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 004fb10535f6f3848a6d4e481b2ba301
+      internalID: -2129426526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonsterHurtDeath_29
+      rect:
+        serializedVersion: 2
+        x: 2685
+        y: 437
+        width: 261
+        height: 464
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1c58b9331ca5be4cb32a7ed60da5520
+      internalID: -1195296891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonsterHurtDeath_30
+      rect:
+        serializedVersion: 2
+        x: 2944
+        y: 648
+        width: 41
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f21c9369aad6e604eadab2321ca742e5
+      internalID: -1174454626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonsterHurtDeath_31
+      rect:
+        serializedVersion: 2
+        x: 4614
+        y: 418
+        width: 298
+        height: 433
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13ed0024634e7674a86fda8df9c9795b
+      internalID: -82626402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonsterHurtDeath_32
+      rect:
+        serializedVersion: 2
+        x: 4892
+        y: 645
+        width: 40
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 815791685f75db045a79635e7a9998c7
+      internalID: 1617164155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonsterHurtDeath_33
+      rect:
+        serializedVersion: 2
+        x: 4565
+        y: 610
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95aa3789bb24f074598ae74510e76e62
+      internalID: 189148438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonsterHurtDeath_34
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 593
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cd22643ddfcf234b864c59441db2538
+      internalID: -1537481064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonsterHurtDeath_35
+      rect:
+        serializedVersion: 2
+        x: 2620
+        y: 601
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68160c2f036d3f14ab7a773688f568bc
+      internalID: 528594212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: c6ec4f3df3b58ed43adac2d43cb83f84
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceOnImport
+        value: False
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      MonsterHurtDeath_0: -8446016789639179614
+      MonsterHurtDeath_1: -1859022077532998947
+      MonsterHurtDeath_10: 7680384058399037073
+      MonsterHurtDeath_11: -8338768237459251678
+      MonsterHurtDeath_12: 7089028791621359195
+      MonsterHurtDeath_13: 6512576220162304776
+      MonsterHurtDeath_14: 9041159905164454568
+      MonsterHurtDeath_15: -2154071744409118343
+      MonsterHurtDeath_16: -3529047405443070431
+      MonsterHurtDeath_17: -2787998484746659896
+      MonsterHurtDeath_18: -3962428526031990164
+      MonsterHurtDeath_19: 9048664482535810272
+      MonsterHurtDeath_2: 7014163995600885279
+      MonsterHurtDeath_20: -3302296126398347148
+      MonsterHurtDeath_21: 1663856437
+      MonsterHurtDeath_22: -1352620764
+      MonsterHurtDeath_23: -755189652
+      MonsterHurtDeath_24: 1990722864
+      MonsterHurtDeath_25: -1867716932
+      MonsterHurtDeath_26: 504481650
+      MonsterHurtDeath_27: 563177139
+      MonsterHurtDeath_28: -2129426526
+      MonsterHurtDeath_29: -1195296891
+      MonsterHurtDeath_3: -3837966554500642422
+      MonsterHurtDeath_30: -1174454626
+      MonsterHurtDeath_31: -82626402
+      MonsterHurtDeath_32: 1617164155
+      MonsterHurtDeath_33: 189148438
+      MonsterHurtDeath_34: -1537481064
+      MonsterHurtDeath_35: 528594212
+      MonsterHurtDeath_4: 2548129505533441442
+      MonsterHurtDeath_5: -6098496992711401104
+      MonsterHurtDeath_6: 2201135880521546184
+      MonsterHurtDeath_7: 3720152277043398852
+      MonsterHurtDeath_8: 8291623198862125823
+      MonsterHurtDeath_9: -2074460497701763842
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
