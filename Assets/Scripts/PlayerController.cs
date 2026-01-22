@@ -2,7 +2,6 @@ using System.Collections;
 using UnityEngine;
 using UnityEngine.UI;
 using TMPro;
-using Unity.VisualScripting;
 
 public enum Controls { mobile, pc }
 
@@ -10,16 +9,37 @@ public class PlayerController : MonoBehaviour
 {
     private float maxHPWidth;
     private float maxManaWidth;
+
     [Header("Movement")]
     public float moveSpeed = 5f;
     public string PlayerName = "Kenz";
     public float jumpForce = 10f;
+
+    [Header("Dash")]
+    public float dashSpeed = 15f;
+    public float dashDuration = 0.2f;
+    private bool isDashing;
+
+    [Header("Wall")]
+    public Transform wallCheck;
+    public float wallCheckDistance = 0.4f;
+    public LayerMask wallLayer;
+    private bool isOnWall;
+
+    [Header("Ladder")]
+    public float climbSpeed = 4f;
+    private bool isOnLadder;
+
+    [Header("Ground Check")]
     public LayerMask groundLayer;
     public Transform groundCheck;
+
+    [Header("UI")]
     public RectTransform HPUI;
     public TextMeshProUGUI HPText;
     public RectTransform ManaUI;
     public TextMeshProUGUI ManaText;
+
     public int health = 100;
     public int maxHealth = 100;
     public int mana = 100;
@@ -28,15 +48,14 @@ public class PlayerController : MonoBehaviour
     private Rigidbody2D rb;
     private bool isGrounded;
     private bool jumpPressed;
+    private float moveX;
+    private bool isAttacking;
 
     [Header("Animator")]
     public Animator playeranim;
 
     [Header("Controls")]
     public Controls controlmode;
-
-    private float moveX;
-    private bool isAttacking;
 
     [Header("Effects")]
     public ParticleSystem footsteps;
@@ -45,16 +64,15 @@ public class PlayerController : MonoBehaviour
     private bool wasonGround;
 
     [Header("Attack Hitbox")]
-    public GameObject attackHitbox; // assign in inspector
+    public GameObject attackHitbox;
     private BoxCollider2D attackCollider;
 
     [Header("Combat")]
     public float attackCooldown = 0.3f;
     private float lastAttackTime;
-    private int comboStep = 0;
+    private int comboStep;
     private float comboResetTime = 0.8f;
     private float lastComboTime;
-    [Header("Attack Collider Settings")]
     public float attackColliderDuration = 0.2f;
 
     private void Start()
@@ -65,29 +83,25 @@ public class PlayerController : MonoBehaviour
         maxHPWidth = HPUI.sizeDelta.x;
         maxManaWidth = ManaUI.sizeDelta.x;
 
-
         UpdateHPUI();
         UpdateManaUI();
 
-        // Attack collider setup
         if (attackHitbox != null)
         {
             attackCollider = attackHitbox.GetComponent<BoxCollider2D>();
-            attackCollider.enabled = false; // off by default
+            attackCollider.enabled = false;
         }
 
         if (controlmode == Controls.mobile)
-        {
             UIManager.instance.EnableMobileControls();
-        }
     }
-
 
     private void Update()
     {
         isGrounded = IsGrounded();
-        //Debug.Log(isGrounded);
-        if (!isAttacking)
+        isOnWall = IsTouchingWall() && !isGrounded && rb.linearVelocity.y <= 0;
+
+        if (!isAttacking && !isDashing)
         {
             if (controlmode == Controls.pc)
             {
@@ -95,14 +109,27 @@ public class PlayerController : MonoBehaviour
 
                 if (Input.GetButtonDown("Jump"))
                     jumpPressed = true;
-
-
             }
         }
+
+        // Dash input
+        if (!isDashing && !isAttacking && Input.GetKeyDown(KeyCode.LeftShift))
+            StartCoroutine(Dash());
 
         // Attack input
         if (!isAttacking && controlmode == Controls.pc && Input.GetButtonDown("Fire1"))
             HandleAttack();
+
+        // Ladder climbing
+        if (isOnLadder && Input.GetKey(KeyCode.W))
+        {
+            rb.gravityScale = 0;
+            rb.linearVelocity = new Vector2(rb.linearVelocity.x, climbSpeed);
+        }
+        else if (!isOnLadder)
+        {
+            rb.gravityScale = 1;
+        }
 
         UpdateAnimator();
 
@@ -112,10 +139,6 @@ public class PlayerController : MonoBehaviour
         // Landing effect
         if (!wasonGround && isGrounded)
         {
-            ImpactEffect.gameObject.SetActive(true);
-            ImpactEffect.Stop();
-            ImpactEffect.transform.position =
-                new Vector2(footsteps.transform.position.x, footsteps.transform.position.y - 0.2f);
             ImpactEffect.Play();
         }
 
@@ -124,47 +147,71 @@ public class PlayerController : MonoBehaviour
 
     private void FixedUpdate()
     {
-        // Horizontal movement blocked if attacking
+        if (isDashing) return;
+
         if (isAttacking)
         {
-            rb.linearVelocity = new Vector2(0f, rb.linearVelocity.y);
+            rb.linearVelocity = new Vector2(0, rb.linearVelocity.y);
             return;
         }
 
-        // Normal movement
         rb.linearVelocity = new Vector2(moveX * moveSpeed, rb.linearVelocity.y);
 
-        // Jump
-        if (jumpPressed && isGrounded)
+        if (jumpPressed)
         {
-            rb.linearVelocity = new Vector2(rb.linearVelocity.x, 0f);
-            rb.AddForce(Vector2.up * jumpForce, ForceMode2D.Impulse);
-            playeranim.SetTrigger("jump");
+            if (isGrounded)
+            {
+                rb.linearVelocity = new Vector2(rb.linearVelocity.x, 0);
+                rb.AddForce(Vector2.up * jumpForce, ForceMode2D.Impulse);
+                playeranim.SetTrigger("jump");
+            }
+            else if (isOnWall)
+            {
+                rb.linearVelocity = Vector2.zero;
+                rb.AddForce(new Vector2(-transform.localScale.x * 8f, jumpForce),
+                    ForceMode2D.Impulse);
+                FlipSprite(-transform.localScale.x);
+                playeranim.SetTrigger("jump");
+            }
         }
 
         jumpPressed = false;
     }
 
+    // =========================
+    // DASH
+    // =========================
+    private IEnumerator Dash()
+    {
+        isDashing = true;
+        playeranim.SetTrigger("dash");
+        playeranim.SetBool("isDashing", true);
 
-    // ==============================
+        float dir = transform.localScale.x;
+        float timer = 0f;
+
+        while (timer < dashDuration)
+        {
+            rb.linearVelocity = new Vector2(dir * dashSpeed, 0);
+            timer += Time.deltaTime;
+            yield return null;
+        }
+
+        playeranim.SetBool("isDashing", false);
+        isDashing = false;
+    }
+
+    // =========================
     // COMBAT
-    // ==============================
+    // =========================
     private void HandleAttack()
     {
         if (Time.time - lastAttackTime < attackCooldown)
             return;
 
-        // Only freeze movement if grounded
-        if (isGrounded)
-        {
-            isAttacking = true;
-            StartCoroutine(FreezeMovement(0.5f)); // freeze for 1 second
-        }
+        isAttacking = true;
+        StartCoroutine(FreezeMovement(0.5f));
 
-        moveX = 0f;
-        rb.linearVelocity = new Vector2(0f, rb.linearVelocity.y);
-
-        // Combo step logic
         if (Time.time - lastComboTime > comboResetTime)
             comboStep = 0;
 
@@ -179,194 +226,114 @@ public class PlayerController : MonoBehaviour
 
         if (attackCollider != null)
         {
-            attackCollider.enabled = true; // enable hitbox
-            Debug.Log("Attack collider enabled");
-            StopCoroutine("DisableAttackCollider");
+            attackCollider.enabled = true;
+            StopCoroutine(nameof(DisableAttackCollider));
             StartCoroutine(DisableAttackCollider());
         }
     }
+
     private IEnumerator FreezeMovement(float duration)
     {
-        float timer = 0f;
-
-        // Keep velocity 0 while attacking
-        while (timer < duration)
-        {
-            rb.linearVelocity = new Vector2(0f, rb.linearVelocity.y);
-            timer += Time.deltaTime;
-            yield return null;
-        }
-
+        yield return new WaitForSeconds(duration);
         isAttacking = false;
     }
 
-
-    // Called via animation events
-    // public void StartAttack()
-    // {
-    //     isAttacking = true;
-
-    //     if (attackCollider != null)
-    //     {
-    //         attackCollider.enabled = true; // enable hitbox
-    //         StopCoroutine("DisableAttackCollider"); // stop previous if still running
-    //         StartCoroutine(DisableAttackCollider()); // start countdown to disable
-    //     }
-    // }
     private IEnumerator DisableAttackCollider()
     {
         yield return new WaitForSeconds(attackColliderDuration);
         if (attackCollider != null)
-            attackCollider.enabled = false; // disable after cooldown
+            attackCollider.enabled = false;
     }
 
-
-
-    public void EndAttack()
-    {
-        isAttacking = false;
-        //if (attackCollider != null)
-        // attackCollider.enabled = false; // disable hitbox
-    }
-
-    // ==============================
+    // =========================
     // ANIMATION
-    // ==============================
+    // =========================
     private void UpdateAnimator()
     {
         playeranim.SetBool("run", moveX != 0 && isGrounded && !isAttacking);
         playeranim.SetBool("isGrounded", isGrounded);
         playeranim.SetBool("isAttacking", isAttacking);
+        playeranim.SetBool("isDashing", isDashing);
+        playeranim.SetBool("isOnWall", isOnWall);
+        playeranim.SetBool("isClimbing", isOnLadder);
 
         footEmissions.rateOverTime =
             (moveX != 0 && isGrounded && !isAttacking) ? 35f : 0f;
     }
 
-    // ==============================
-    // MOBILE INPUT
-    // ==============================
-    public void MobileMove(float value)
+    // =========================
+    // COLLISIONS
+    // =========================
+    private void OnTriggerEnter2D(Collider2D other)
     {
-        if (!isAttacking)
-            moveX = value;
+        if (other.CompareTag("Ladder"))
+            isOnLadder = true;
     }
 
-    public void MobileJump()
+    private void OnTriggerExit2D(Collider2D other)
     {
-        if (!isAttacking && isGrounded)
-            jumpPressed = true;
+        if (other.CompareTag("Ladder"))
+            isOnLadder = false;
     }
 
-    public void MobileAttack()
-    {
-        HandleAttack();
-    }
-
-    // ==============================
-    // HELPER METHODS
-    // ==============================
+    // =========================
+    // HELPERS
+    // =========================
     private bool IsGrounded()
     {
-        float rayLength = 0.3f; // slightly longer than before
-        Vector2 rayOrigin = new Vector2(groundCheck.position.x, groundCheck.position.y);
-
-        RaycastHit2D hit = Physics2D.Raycast(rayOrigin, Vector2.down, rayLength, groundLayer);
-
-        Debug.DrawRay(rayOrigin, Vector2.down * rayLength, hit.collider ? Color.green : Color.red);
-
-        // if (hit.collider)
-        //     Debug.Log("Grounded on: " + hit.collider.gameObject.name);
-
-
+        RaycastHit2D hit =
+            Physics2D.Raycast(groundCheck.position, Vector2.down, 0.3f, groundLayer);
         return hit.collider != null;
-
     }
 
+    private bool IsTouchingWall()
+    {
+        Vector2 dir = transform.localScale.x > 0 ? Vector2.right : Vector2.left;
+        RaycastHit2D hit =
+            Physics2D.Raycast(wallCheck.position, dir, wallCheckDistance, wallLayer);
+        return hit.collider != null;
+    }
 
     private void FlipSprite(float direction)
     {
         transform.localScale = new Vector3(direction > 0 ? 1 : -1, 1, 1);
     }
+
+    // =========================
+    // UI / DAMAGE
+    // =========================
     public void TakeDamage(int damage)
     {
-        if (health <= 0) return; // already dead, ignore further damage
+        if (health <= 0) return;
 
         health -= damage;
         UpdateHPUI();
-
-        // Play hurt animation
-        if (playeranim != null)
-            playeranim.SetTrigger("hurt");
+        playeranim.SetTrigger("hurt");
 
         if (health <= 0)
-        {
             StartCoroutine(DieWithAnimation());
-        }
     }
-    public void AddHeal(int amount)
-    {
-        health += amount;
-        UpdateHPUI();
-    }
-
-    public void AddMana(int amount)
-    {
-        mana += amount;
-        UpdateManaUI();
-    }
-
 
     private void UpdateHPUI()
     {
         health = Mathf.Clamp(health, 0, maxHealth);
-
-        float hpPercent = (float)health / maxHealth;
-        HPUI.sizeDelta = new Vector2(maxHPWidth * hpPercent, HPUI.sizeDelta.y);
-
-        if (HPText != null)
-            HPText.text = "HP " + health + " / " + maxHealth;
+        HPUI.sizeDelta =
+            new Vector2(maxHPWidth * ((float)health / maxHealth), HPUI.sizeDelta.y);
+        HPText.text = $"HP {health} / {maxHealth}";
     }
 
     private void UpdateManaUI()
     {
         mana = Mathf.Clamp(mana, 0, maxMana);
-
-        float manaPercent = (float)mana / maxMana;
-        ManaUI.sizeDelta = new Vector2(maxManaWidth * manaPercent, ManaUI.sizeDelta.y);
-
-        if (ManaText != null)
-            ManaText.text = "Mana " + mana + " / " + maxMana;
+        ManaUI.sizeDelta =
+            new Vector2(maxManaWidth * ((float)mana / maxMana), ManaUI.sizeDelta.y);
+        ManaText.text = $"Mana {mana} / {maxMana}";
     }
-
-
 
     private IEnumerator DieWithAnimation()
     {
-        // Disable player input
-        // isPaused = true;
-
-        // Play death animation
-        if (playeranim != null)
-            playeranim.SetTrigger("death");
-
-
-
-        // Wait for animation to finish (adjust time to your animation length)
-        float deathAnimLength = 1.5f; // seconds, adjust to your clip
-        yield return new WaitForSeconds(deathAnimLength);
-
-        // Call GameManager death logic
+        playeranim.SetTrigger("death");
+        yield return new WaitForSeconds(1.5f);
         GameManager.instance.Death();
-
-        // Optionally, reset player collider (if respawning)
-        GetComponent<Collider2D>().enabled = true;
-    }
-
-    private void OnCollisionEnter2D(Collision2D collision)
-    {
-        if (collision.gameObject.tag == "killzone")
-        {
-            GameManager.instance.Death();
-        }
     }
 }
