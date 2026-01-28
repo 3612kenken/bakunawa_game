@@ -1,0 +1,3343 @@
+fileFormatVersion: 2
+guid: 52326bd5baf05734ca1d4eed00722479
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5431105782990202026
+    second: 58-587022_ruins-png-walls-transparent-png_0
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 58-587022_ruins-png-walls-transparent-png_0
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 587
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 0, y: -50}
+        - {x: 50, y: 0}
+        - {x: 0, y: 50}
+        - {x: -50, y: 0}
+      physicsShape:
+      - - {x: 0, y: -50}
+        - {x: 50, y: 0}
+        - {x: 0, y: 50}
+        - {x: -50, y: 0}
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65b9c4bc016d0a4b0800000000000000
+      internalID: -5431105782990202026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 58-587022_ruins-png-walls-transparent-png_1
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 587
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 0, y: -50}
+        - {x: 50, y: 0}
+        - {x: 0, y: 50}
+        - {x: -50, y: 0}
+      physicsShape:
+      - - {x: 0, y: -50}
+        - {x: 50, y: 0}
+        - {x: 0, y: 50}
+        - {x: -50, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a20224e2dc9dcf4a84b737db8c0c7aa
+      internalID: 516114373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 58-587022_ruins-png-walls-transparent-png_2
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 587
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 0, y: -50}
+        - {x: 50, y: 0}
+        - {x: 0, y: 50}
+        - {x: -50, y: 0}
+      physicsShape:
+      - - {x: 0, y: -50}
+        - {x: 50, y: 0}
+        - {x: 0, y: 50}
+        - {x: -50, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91878efeb281b7748ba909e5f53abbd6
+      internalID: 458501513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 58-587022_ruins-png-walls-transparent-png_3
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 587
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 0, y: -50}
+        - {x: 50, y: 0}
+        - {x: 0, y: 50}
+        - {x: -50, y: 0}
+      physicsShape:
+      - - {x: 0, y: -50}
+        - {x: 50, y: 0}
+        - {x: 0, y: 50}
+        - {x: -50, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0db962b0f4cf40b46bba80cbbe51525c
+      internalID: 1427379274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 58-587022_ruins-png-walls-transparent-png_4
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 587
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 0, y: -50}
+        - {x: 50, y: 0}
+        - {x: 0, y: 50}
+        - {x: -50, y: 0}
+      physicsShape:
+      - - {x: 0, y: -50}
+        - {x: 50, y: 0}
+        - {x: 0, y: 50}
+        - {x: -50, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a3a8cbe88e74d94ba183f3edf869e9d
+      internalID: 311138239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 58-587022_ruins-png-walls-transparent-png_5
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 587
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 0, y: -50}
+        - {x: 50, y: 0}
+        - {x: 0, y: 50}
+        - {x: -50, y: 0}
+      physicsShape:
+      - - {x: 0, y: -50}
+        - {x: 50, y: 0}
+        - {x: 0, y: 50}
+        - {x: -50, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dfa644e515376c45b0dfec39eb97c16
+      internalID: -135360290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 58-587022_ruins-png-walls-transparent-png_6
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 587
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 0, y: -50}
+        - {x: 50, y: 0}
+        - {x: 0, y: 50}
+        - {x: -50, y: 0}
+      physicsShape:
+      - - {x: 0, y: -50}
+        - {x: 50, y: 0}
+        - {x: 0, y: 50}
+        - {x: -50, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 420aa9d21c593634fafee60a0b3f8e77
+      internalID: -2132082026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 58-587022_ruins-png-walls-transparent-png_7
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 523
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 0, y: -50}
+        - {x: 50, y: 0}
+        - {x: 0, y: 50}
+        - {x: -50, y: 0}
+      physicsShape:
+      - - {x: 0, y: -50}
+        - {x: 50, y: 0}
+        - {x: 0, y: 50}
+        - {x: -50, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53fa87bd79aac2643bd3c47130160a59
+      internalID: -511931718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 58-587022_ruins-png-walls-transparent-png_8
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 523
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 0, y: -50}
+        - {x: 50, y: 0}
+        - {x: 0, y: 50}
+        - {x: -50, y: 0}
+      physicsShape:
+      - - {x: 0, y: -50}
+        - {x: 50, y: 0}
+        - {x: 0, y: 50}
+        - {x: -50, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 668777e57e7e0c443bd911b8a6374d95
+      internalID: 1167281444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 58-587022_ruins-png-walls-transparent-png_9
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 523
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 0, y: -50}
+        - {x: 50, y: 0}
+        - {x: 0, y: 50}
+        - {x: -50, y: 0}
+      physicsShape:
+      - - {x: 0, y: -50}
+        - {x: 50, y: 0}
+        - {x: 0, y: 50}
+        - {x: -50, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e78511ca9cd2844da2d7401ee426eab
+      internalID: -694186240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 58-587022_ruins-png-walls-transparent-png_10
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 523
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 0, y: -50}
+        - {x: 50, y: 0}
+        - {x: 0, y: 50}
+        - {x: -50, y: 0}
+      physicsShape:
+      - - {x: 0, y: -50}
+        - {x: 50, y: 0}
+        - {x: 0, y: 50}
+        - {x: -50, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a7fe63d96f54ec4580819bcf5b3ff92
+      internalID: -1022970372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 58-587022_ruins-png-walls-transparent-png_11
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 523
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 0, y: -50}
+        - {x: 50, y: 0}
+        - {x: 0, y: 50}
+        - {x: -50, y: 0}
+      physicsShape:
+      - - {x: 0, y: -50}
+        - {x: 50, y: 0}
+        - {x: 0, y: 50}
+        - {x: -50, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: e292dcbe360863a48a14ab3d4ea52be8
+      internalID: 2102229665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 58-587022_ruins-png-walls-transparent-png_12
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 523
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 0, y: -50}
+        - {x: 50, y: 0}
+        - {x: 0, y: 50}
+        - {x: -50, y: 0}
+      physicsShape:
+      - - {x: 0, y: -50}
+        - {x: 50, y: 0}
+        - {x: 0, y: 50}
+        - {x: -50, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdc2b14c64cae4f4fbc4f40e84b7dfff
+      internalID: -661096802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 58-587022_ruins-png-walls-transparent-png_13
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 523
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 0, y: -50}
+        - {x: 50, y: 0}
+        - {x: 0, y: 50}
+        - {x: -50, y: 0}
+      physicsShape:
+      - - {x: 0, y: -50}
+        - {x: 50, y: 0}
+        - {x: 0, y: 50}
+        - {x: -50, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86ac629188f926f4f9648d0271ff15e5
+      internalID: -1410312892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 58-587022_ruins-png-walls-transparent-png_14
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 523
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 0, y: -50}
+        - {x: 50, y: 0}
+        - {x: 0, y: 50}
+        - {x: -50, y: 0}
+      physicsShape:
+      - - {x: 0, y: -50}
+        - {x: 50, y: 0}
+        - {x: 0, y: 50}
+        - {x: -50, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b96f1eacf752c1468b222df11d4ae6a
+      internalID: -1544158798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 58-587022_ruins-png-walls-transparent-png_15
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 523
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 0, y: -50}
+        - {x: 50, y: 0}
+        - {x: 0, y: 50}
+        - {x: -50, y: 0}
+      physicsShape:
+      - - {x: 0, y: -50}
+        - {x: 50, y: 0}
+        - {x: 0, y: 50}
+        - {x: -50, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 053c80da69829f24d84f9a5b794fb194
+      internalID: -88851088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 58-587022_ruins-png-walls-transparent-png_16
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 523
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 0, y: -50}
+        - {x: 50, y: 0}
+        - {x: 0, y: 50}
+        - {x: -50, y: 0}
+      physicsShape:
+      - - {x: 0, y: -50}
+        - {x: 50, y: 0}
+        - {x: 0, y: 50}
+        - {x: -50, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9981c8c3552382419258b8f6eb17784
+      internalID: 754913231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 58-587022_ruins-png-walls-transparent-png_17
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 523
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 0, y: -50}
+        - {x: 50, y: 0}
+        - {x: 0, y: 50}
+        - {x: -50, y: 0}
+      physicsShape:
+      - - {x: 0, y: -50}
+        - {x: 50, y: 0}
+        - {x: 0, y: 50}
+        - {x: -50, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e2fef68e81604d4ca3084dcd9d489c0
+      internalID: -1197049718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 58-587022_ruins-png-walls-transparent-png_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 459
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 0, y: -50}
+        - {x: 50, y: 0}
+        - {x: 0, y: 50}
+        - {x: -50, y: 0}
+      physicsShape:
+      - - {x: 0, y: -50}
+        - {x: 50, y: 0}
+        - {x: 0, y: 50}
+        - {x: -50, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3241980d3d3fae744abbbd19051f9958
+      internalID: -1196576784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 58-587022_ruins-png-walls-transparent-png_19
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 459
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 0, y: -50}
+        - {x: 50, y: 0}
+        - {x: 0, y: 50}
+        - {x: -50, y: 0}
+      physicsShape:
+      - - {x: 0, y: -50}
+        - {x: 50, y: 0}
+        - {x: 0, y: 50}
+        - {x: -50, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 442fd383164e339448764cc69124ee16
+      internalID: 1120394888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 58-587022_ruins-png-walls-transparent-png_20
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 459
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 0, y: -50}
+        - {x: 50, y: 0}
+        - {x: 0, y: 50}
+        - {x: -50, y: 0}
+      physicsShape:
+      - - {x: 0, y: -50}
+        - {x: 50, y: 0}
+        - {x: 0, y: 50}
+        - {x: -50, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1eea5279dceba5c43bd29feb11d05164
+      internalID: 230420582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 58-587022_ruins-png-walls-transparent-png_21
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 459
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 0, y: -50}
+        - {x: 50, y: 0}
+        - {x: 0, y: 50}
+        - {x: -50, y: 0}
+      physicsShape:
+      - - {x: 0, y: -50}
+        - {x: 50, y: 0}
+        - {x: 0, y: 50}
+        - {x: -50, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbab622d3a3438945bc1afbb7c3a636a
+      internalID: 1612869468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 58-587022_ruins-png-walls-transparent-png_22
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 459
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 0, y: -50}
+        - {x: 50, y: 0}
+        - {x: 0, y: 50}
+        - {x: -50, y: 0}
+      physicsShape:
+      - - {x: 0, y: -50}
+        - {x: 50, y: 0}
+        - {x: 0, y: 50}
+        - {x: -50, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4f5265562dcd2442a13171f6e4b40d1
+      internalID: -484684180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 58-587022_ruins-png-walls-transparent-png_23
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 459
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 0, y: -50}
+        - {x: 50, y: 0}
+        - {x: 0, y: 50}
+        - {x: -50, y: 0}
+      physicsShape:
+      - - {x: 0, y: -50}
+        - {x: 50, y: 0}
+        - {x: 0, y: 50}
+        - {x: -50, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9552ff9131619c42a9d3ea64fbb29db
+      internalID: 72761206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 58-587022_ruins-png-walls-transparent-png_24
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 459
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 0, y: -50}
+        - {x: 50, y: 0}
+        - {x: 0, y: 50}
+        - {x: -50, y: 0}
+      physicsShape:
+      - - {x: 0, y: -50}
+        - {x: 50, y: 0}
+        - {x: 0, y: 50}
+        - {x: -50, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6850a41c594082f419907f483685d59a
+      internalID: 1342983253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 58-587022_ruins-png-walls-transparent-png_25
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 459
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 0, y: -50}
+        - {x: 50, y: 0}
+        - {x: 0, y: 50}
+        - {x: -50, y: 0}
+      physicsShape:
+      - - {x: 0, y: -50}
+        - {x: 50, y: 0}
+        - {x: 0, y: 50}
+        - {x: -50, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: e93e72b0e7ed70e478a16d5093561425
+      internalID: 741861802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 58-587022_ruins-png-walls-transparent-png_26
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 459
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 0, y: -50}
+        - {x: 50, y: 0}
+        - {x: 0, y: 50}
+        - {x: -50, y: 0}
+      physicsShape:
+      - - {x: 0, y: -50}
+        - {x: 50, y: 0}
+        - {x: 0, y: 50}
+        - {x: -50, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cfbefa135a109a4b8a004e5422d3440
+      internalID: 1259040069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 58-587022_ruins-png-walls-transparent-png_27
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 459
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 0, y: -50}
+        - {x: 50, y: 0}
+        - {x: 0, y: 50}
+        - {x: -50, y: 0}
+      physicsShape:
+      - - {x: 0, y: -50}
+        - {x: 50, y: 0}
+        - {x: 0, y: 50}
+        - {x: -50, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3bef0dbb58c8d44d83f18b6cd792338
+      internalID: -43699560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 58-587022_ruins-png-walls-transparent-png_28
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 459
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 0, y: -50}
+        - {x: 50, y: 0}
+        - {x: 0, y: 50}
+        - {x: -50, y: 0}
+      physicsShape:
+      - - {x: 0, y: -50}
+        - {x: 50, y: 0}
+        - {x: 0, y: 50}
+        - {x: -50, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: c553f204554f43942a1cecc35a473f2c
+      internalID: -528034306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 58-587022_ruins-png-walls-transparent-png_29
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 459
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 0, y: -50}
+        - {x: 50, y: 0}
+        - {x: 0, y: 50}
+        - {x: -50, y: 0}
+      physicsShape:
+      - - {x: 0, y: -50}
+        - {x: 50, y: 0}
+        - {x: 0, y: 50}
+        - {x: -50, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 702db29507f968f4eb11dc496018758b
+      internalID: -628001573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 58-587022_ruins-png-walls-transparent-png_30
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 459
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 0, y: -50}
+        - {x: 50, y: 0}
+        - {x: 0, y: 50}
+        - {x: -50, y: 0}
+      physicsShape:
+      - - {x: 0, y: -50}
+        - {x: 50, y: 0}
+        - {x: 0, y: 50}
+        - {x: -50, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 448d16f177f2513448c12f727e62af86
+      internalID: 2058207904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 58-587022_ruins-png-walls-transparent-png_31
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 395
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 0, y: -50}
+        - {x: 50, y: 0}
+        - {x: 0, y: 50}
+        - {x: -50, y: 0}
+      physicsShape:
+      - - {x: 0, y: -50}
+        - {x: 50, y: 0}
+        - {x: 0, y: 50}
+        - {x: -50, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2bb379f3f494924c8f97e4a363fa496
+      internalID: -1773305149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 58-587022_ruins-png-walls-transparent-png_32
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 395
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 0, y: -50}
+        - {x: 50, y: 0}
+        - {x: 0, y: 50}
+        - {x: -50, y: 0}
+      physicsShape:
+      - - {x: 0, y: -50}
+        - {x: 50, y: 0}
+        - {x: 0, y: 50}
+        - {x: -50, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca28a2d81c1bda04f9c2b8bdeb858e06
+      internalID: 915180080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 58-587022_ruins-png-walls-transparent-png_33
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 395
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 0, y: -50}
+        - {x: 50, y: 0}
+        - {x: 0, y: 50}
+        - {x: -50, y: 0}
+      physicsShape:
+      - - {x: 0, y: -50}
+        - {x: 50, y: 0}
+        - {x: 0, y: 50}
+        - {x: -50, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8769031ae63fb0c4f8bcb8827de83c4a
+      internalID: -1654420502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 58-587022_ruins-png-walls-transparent-png_34
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 395
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 0, y: -50}
+        - {x: 50, y: 0}
+        - {x: 0, y: 50}
+        - {x: -50, y: 0}
+      physicsShape:
+      - - {x: 0, y: -50}
+        - {x: 50, y: 0}
+        - {x: 0, y: 50}
+        - {x: -50, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d77e51d2b5579048a89bf27cd627416
+      internalID: 663322648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 58-587022_ruins-png-walls-transparent-png_35
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 395
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 0, y: -50}
+        - {x: 50, y: 0}
+        - {x: 0, y: 50}
+        - {x: -50, y: 0}
+      physicsShape:
+      - - {x: 0, y: -50}
+        - {x: 50, y: 0}
+        - {x: 0, y: 50}
+        - {x: -50, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12e00d1d8e093434197af0c29c28c709
+      internalID: 1714214681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 58-587022_ruins-png-walls-transparent-png_36
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 395
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 0, y: -50}
+        - {x: 50, y: 0}
+        - {x: 0, y: 50}
+        - {x: -50, y: 0}
+      physicsShape:
+      - - {x: 0, y: -50}
+        - {x: 50, y: 0}
+        - {x: 0, y: 50}
+        - {x: -50, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92f7085638c233a4c89ee76cde70c759
+      internalID: -537679737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 58-587022_ruins-png-walls-transparent-png_37
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 395
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 0, y: -50}
+        - {x: 50, y: 0}
+        - {x: 0, y: 50}
+        - {x: -50, y: 0}
+      physicsShape:
+      - - {x: 0, y: -50}
+        - {x: 50, y: 0}
+        - {x: 0, y: 50}
+        - {x: -50, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: c00cc1a80012d9d429f026032262af7f
+      internalID: -676956092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 58-587022_ruins-png-walls-transparent-png_38
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 395
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 0, y: -50}
+        - {x: 50, y: 0}
+        - {x: 0, y: 50}
+        - {x: -50, y: 0}
+      physicsShape:
+      - - {x: 0, y: -50}
+        - {x: 50, y: 0}
+        - {x: 0, y: 50}
+        - {x: -50, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a04bf4a62e6aef47b7db28ae5b91155
+      internalID: -1976919615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 58-587022_ruins-png-walls-transparent-png_39
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 395
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 0, y: -50}
+        - {x: 50, y: 0}
+        - {x: 0, y: 50}
+        - {x: -50, y: 0}
+      physicsShape:
+      - - {x: 0, y: -50}
+        - {x: 50, y: 0}
+        - {x: 0, y: 50}
+        - {x: -50, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc5019eb770dddd4e9492fc0231f4172
+      internalID: -1396024772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 58-587022_ruins-png-walls-transparent-png_40
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 395
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 0, y: -50}
+        - {x: 50, y: 0}
+        - {x: 0, y: 50}
+        - {x: -50, y: 0}
+      physicsShape:
+      - - {x: 0, y: -50}
+        - {x: 50, y: 0}
+        - {x: 0, y: 50}
+        - {x: -50, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bf6b7ad25e670d4199a292e5476f842
+      internalID: 942103056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 58-587022_ruins-png-walls-transparent-png_41
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 395
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 0, y: -50}
+        - {x: 50, y: 0}
+        - {x: 0, y: 50}
+        - {x: -50, y: 0}
+      physicsShape:
+      - - {x: 0, y: -50}
+        - {x: 50, y: 0}
+        - {x: 0, y: 50}
+        - {x: -50, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13e89e9b208d8c545967bb8cff08e022
+      internalID: 1283166801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 58-587022_ruins-png-walls-transparent-png_42
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 395
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 0, y: -50}
+        - {x: 50, y: 0}
+        - {x: 0, y: 50}
+        - {x: -50, y: 0}
+      physicsShape:
+      - - {x: 0, y: -50}
+        - {x: 50, y: 0}
+        - {x: 0, y: 50}
+        - {x: -50, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: f87362f1fd506ef4b9ddfbc546329f7a
+      internalID: 1241003887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 58-587022_ruins-png-walls-transparent-png_43
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 395
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 0, y: -50}
+        - {x: 50, y: 0}
+        - {x: 0, y: 50}
+        - {x: -50, y: 0}
+      physicsShape:
+      - - {x: 0, y: -50}
+        - {x: 50, y: 0}
+        - {x: 0, y: 50}
+        - {x: -50, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d7b42ca8e640e94ab77bbc5a2290a62
+      internalID: -1648781282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 58-587022_ruins-png-walls-transparent-png_44
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 331
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 0, y: -50}
+        - {x: 50, y: 0}
+        - {x: 0, y: 50}
+        - {x: -50, y: 0}
+      physicsShape:
+      - - {x: 0, y: -50}
+        - {x: 50, y: 0}
+        - {x: 0, y: 50}
+        - {x: -50, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a22b10c1a84bd443959d9ae6ff19316
+      internalID: 370020024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 58-587022_ruins-png-walls-transparent-png_45
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 331
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 0, y: -50}
+        - {x: 50, y: 0}
+        - {x: 0, y: 50}
+        - {x: -50, y: 0}
+      physicsShape:
+      - - {x: 0, y: -50}
+        - {x: 50, y: 0}
+        - {x: 0, y: 50}
+        - {x: -50, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9a470181ee5d324bb04dbf6632a96f0
+      internalID: -297892657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 58-587022_ruins-png-walls-transparent-png_46
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 331
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 0, y: -50}
+        - {x: 50, y: 0}
+        - {x: 0, y: 50}
+        - {x: -50, y: 0}
+      physicsShape:
+      - - {x: 0, y: -50}
+        - {x: 50, y: 0}
+        - {x: 0, y: 50}
+        - {x: -50, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9011560657f25f84487dbe560c8bd8a2
+      internalID: -996708620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 58-587022_ruins-png-walls-transparent-png_47
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 331
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59a516cd7c1d03d469f1243ca067a061
+      internalID: 1339997602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 58-587022_ruins-png-walls-transparent-png_48
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 331
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 961e82203ddfc2b4a9948bbd07a0aa68
+      internalID: -1753018188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 58-587022_ruins-png-walls-transparent-png_49
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 331
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3fe97622dc47fe41bf21dd70c1e0c36
+      internalID: -226020826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 58-587022_ruins-png-walls-transparent-png_50
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 331
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1a53768b6b152c40968fcb91fc6769e
+      internalID: -415642112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 58-587022_ruins-png-walls-transparent-png_51
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 331
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78c75185d9767794f98d8a8f3456d6d6
+      internalID: -878863202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 58-587022_ruins-png-walls-transparent-png_52
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 331
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b18c5c3dc9aa28b4c9ac8d1e3178fde8
+      internalID: 702660012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 58-587022_ruins-png-walls-transparent-png_53
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 331
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3aaf03717ec603f4b832776122e00f16
+      internalID: -462666611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 58-587022_ruins-png-walls-transparent-png_54
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 331
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ab38f32d5c46b54c8a958788d456d99
+      internalID: 1914026375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 58-587022_ruins-png-walls-transparent-png_55
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 331
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 042f50f7df8bcf04cb68702fb570c1bc
+      internalID: -651597638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 58-587022_ruins-png-walls-transparent-png_56
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 331
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df76494e189c0574192cde4708a0d19b
+      internalID: -958855595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 58-587022_ruins-png-walls-transparent-png_57
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 267
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a301ece0cd9e3543bd30d36e049403c
+      internalID: -1402700999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 58-587022_ruins-png-walls-transparent-png_58
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 267
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2270b9f04d1c88f48b36072bfcb06b5a
+      internalID: 1528571289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 58-587022_ruins-png-walls-transparent-png_59
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 267
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88c333f168d90c04bae420697767db26
+      internalID: -1708308498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 58-587022_ruins-png-walls-transparent-png_60
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 267
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70d35f3d40c706d40b2fea8f0315036e
+      internalID: -291991881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 58-587022_ruins-png-walls-transparent-png_61
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 267
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23d64774d0e4c114aa5b6e01d5224f3f
+      internalID: -860740640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 58-587022_ruins-png-walls-transparent-png_62
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 267
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29f3f966c49b2d849ae6e3885445ce22
+      internalID: 450818654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 58-587022_ruins-png-walls-transparent-png_63
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 267
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b869f154d6597be4d9b0977525280af3
+      internalID: -966486679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 58-587022_ruins-png-walls-transparent-png_64
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 267
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2fa5634840250448a5ae0e987efd2f1
+      internalID: -208169949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 58-587022_ruins-png-walls-transparent-png_65
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 267
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f37cc6584a6dbab49becda2787897870
+      internalID: -33082734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 58-587022_ruins-png-walls-transparent-png_66
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 267
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f04cf0faaa5639743abae2c784f97ca9
+      internalID: -1490854346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 58-587022_ruins-png-walls-transparent-png_67
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 267
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0ec4eac3b8904b479c6764371dc99e8
+      internalID: 1908171125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 58-587022_ruins-png-walls-transparent-png_68
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 267
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1faa4ec521ea11469d253e2b0d105c5
+      internalID: -1524590698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 58-587022_ruins-png-walls-transparent-png_69
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 267
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4679f5a58310ee4e941441068c4c6c3
+      internalID: -566488150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 58-587022_ruins-png-walls-transparent-png_70
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 203
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc537f1f59505f34583792000a164531
+      internalID: -468105089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 58-587022_ruins-png-walls-transparent-png_71
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 203
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e04f6f189be8c4443ac09cc85852189a
+      internalID: 1714132197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 58-587022_ruins-png-walls-transparent-png_72
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 203
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ddb524710fb1294db01e4414910e582
+      internalID: -940706679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 58-587022_ruins-png-walls-transparent-png_73
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 203
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17a79e1a86a2b124787f70b27f8d63fd
+      internalID: -92422487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 58-587022_ruins-png-walls-transparent-png_74
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 203
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 583c92ddbd71eec4c81d544c58295f6b
+      internalID: 1817420867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 58-587022_ruins-png-walls-transparent-png_75
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 203
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 296b2745064e1764386878e3c9467f53
+      internalID: 51521041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 58-587022_ruins-png-walls-transparent-png_76
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 203
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69fa1576a5737e64d92661b6da62c570
+      internalID: 392446328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 58-587022_ruins-png-walls-transparent-png_77
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 203
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 569b239b3866bd04fa6c44766b58f280
+      internalID: 1120251943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 58-587022_ruins-png-walls-transparent-png_78
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 203
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2050064c3d974e5498d19375c5b25470
+      internalID: 1486810448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 58-587022_ruins-png-walls-transparent-png_79
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 203
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6654f3cffe8a46548ad22be9585d85eb
+      internalID: 1524127652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 58-587022_ruins-png-walls-transparent-png_80
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 203
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c383122e945a05f428f347b9dbf329da
+      internalID: 1806319770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 58-587022_ruins-png-walls-transparent-png_81
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 203
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3b6da4989bc15346ac8bf612611ff10
+      internalID: -1896909029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 58-587022_ruins-png-walls-transparent-png_82
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 203
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae7720734455536438b9a0e606939762
+      internalID: -233580311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 58-587022_ruins-png-walls-transparent-png_83
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 139
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 987db4b8d2fafdf4a88774bea5037be4
+      internalID: -1276598512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 58-587022_ruins-png-walls-transparent-png_84
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 139
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d18dc4861047764a9415a209825ee53
+      internalID: -1025083655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 58-587022_ruins-png-walls-transparent-png_85
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 139
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68cea40b4b86f644eac3e43391606453
+      internalID: 1071796213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 58-587022_ruins-png-walls-transparent-png_86
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 139
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebf7a0cc0e7b83649a43def1b8b60900
+      internalID: -2063707664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 58-587022_ruins-png-walls-transparent-png_87
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 139
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1db6313d76a469645973a24eca8d46b6
+      internalID: -639759529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 58-587022_ruins-png-walls-transparent-png_88
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 139
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62347b66233158a4b94bcb0b42d2b8f3
+      internalID: -761518097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 58-587022_ruins-png-walls-transparent-png_89
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 139
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c8dab6d23f89f741b4a5ccaefbf0b87
+      internalID: 628713209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 58-587022_ruins-png-walls-transparent-png_90
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 139
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82987888c44735943b7fcfc173680950
+      internalID: 1925418412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 58-587022_ruins-png-walls-transparent-png_91
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 139
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee7db818932a65946ad9ccb3ac0de51d
+      internalID: -1995746613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 58-587022_ruins-png-walls-transparent-png_92
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 139
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c9afe31050781e43878e1aef351bfad
+      internalID: -2002921979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 58-587022_ruins-png-walls-transparent-png_93
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 139
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba0459604010da449bc68e54a31a24dd
+      internalID: 1322275108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 58-587022_ruins-png-walls-transparent-png_94
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 139
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12e72aceb492c8c418c77fe40446f208
+      internalID: -1921893085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 58-587022_ruins-png-walls-transparent-png_95
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 139
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af4b1f75bb2073147a6009fb3dcfb150
+      internalID: -1348027399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 58-587022_ruins-png-walls-transparent-png_96
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 75
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a64c804f69dcf7140b7f93e487773061
+      internalID: 759866300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 58-587022_ruins-png-walls-transparent-png_97
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 75
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 411bd010a69b7f04b84e7c4a846830d2
+      internalID: 1141655985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 58-587022_ruins-png-walls-transparent-png_98
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 75
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb12767100e995f41ae213152d9ad4ea
+      internalID: -1973994549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 58-587022_ruins-png-walls-transparent-png_99
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 75
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8eff1268e79afd2469f900f874507438
+      internalID: 2014846927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 58-587022_ruins-png-walls-transparent-png_100
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 75
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17a83168d77ba0b429510e6981d751fe
+      internalID: 1290200242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 58-587022_ruins-png-walls-transparent-png_101
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 75
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2733c36e532cb2f49a4def53bede9e3d
+      internalID: -1595807751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 58-587022_ruins-png-walls-transparent-png_102
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 75
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 279318d20c29841418740a31d6defd58
+      internalID: 629088458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 58-587022_ruins-png-walls-transparent-png_103
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 75
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d76fc0c9ac10185458efc457a4cd59ae
+      internalID: -949466112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 58-587022_ruins-png-walls-transparent-png_104
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 75
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f137e214c31bf4743beb5f94d873600e
+      internalID: -320216163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 58-587022_ruins-png-walls-transparent-png_105
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 75
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 264cbcf97d28d2a4fbe379da0a467616
+      internalID: -309424546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 58-587022_ruins-png-walls-transparent-png_106
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 75
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d162d77c87809794098090e8bda6284b
+      internalID: 954142626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 58-587022_ruins-png-walls-transparent-png_107
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 75
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f19e8c3689d48774a97a97938259383b
+      internalID: 105975225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 58-587022_ruins-png-walls-transparent-png_108
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 75
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9f797aad96a5ed409873d57037ea591
+      internalID: 187399646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 58-587022_ruins-png-walls-transparent-png_109
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 11
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80a4af3874e05f04b836472f79b948a9
+      internalID: 1194920927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 58-587022_ruins-png-walls-transparent-png_110
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 11
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bd55db8abfb65c4fb73b10dfb288c31
+      internalID: 310862415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 58-587022_ruins-png-walls-transparent-png_111
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 11
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc407f40ea4907d4ea685f1692359e92
+      internalID: -1410790894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 58-587022_ruins-png-walls-transparent-png_112
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 11
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 961072c717324f24880705c14041f7be
+      internalID: 958079784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 58-587022_ruins-png-walls-transparent-png_113
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 11
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58244b3afde49184d8c5374dd9f9e4e6
+      internalID: -524724974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 58-587022_ruins-png-walls-transparent-png_114
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 11
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bceffa89ec8ba2541965456ccebc0e7d
+      internalID: 1004602752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 58-587022_ruins-png-walls-transparent-png_115
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 11
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a6b10d0f9beaa643a86955411a84828
+      internalID: 1683611201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 58-587022_ruins-png-walls-transparent-png_116
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 11
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 710bb167ed28d4d48a4be0a89401fae4
+      internalID: 403648204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 58-587022_ruins-png-walls-transparent-png_117
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 11
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe0c97e365a51304abeffc090a0155b5
+      internalID: 1707744751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 58-587022_ruins-png-walls-transparent-png_118
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 11
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06389701b0a512f45949141921492832
+      internalID: 640940192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 58-587022_ruins-png-walls-transparent-png_119
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 11
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 073ed1129a812cc4f99931b73a64f8a3
+      internalID: -1031926735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 58-587022_ruins-png-walls-transparent-png_120
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 11
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ee9ef7d0db2c3c42a98966047086208
+      internalID: 928393130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 58-587022_ruins-png-walls-transparent-png_121
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 11
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91b8d9e767d00bd43a2bcc9f160ef906
+      internalID: -1677999163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: fbe72527029803d44bcb855ee02e428f
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":1,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      58-587022_ruins-png-walls-transparent-png_0: -5431105782990202026
+      58-587022_ruins-png-walls-transparent-png_1: 516114373
+      58-587022_ruins-png-walls-transparent-png_10: -1022970372
+      58-587022_ruins-png-walls-transparent-png_100: 1290200242
+      58-587022_ruins-png-walls-transparent-png_101: -1595807751
+      58-587022_ruins-png-walls-transparent-png_102: 629088458
+      58-587022_ruins-png-walls-transparent-png_103: -949466112
+      58-587022_ruins-png-walls-transparent-png_104: -320216163
+      58-587022_ruins-png-walls-transparent-png_105: -309424546
+      58-587022_ruins-png-walls-transparent-png_106: 954142626
+      58-587022_ruins-png-walls-transparent-png_107: 105975225
+      58-587022_ruins-png-walls-transparent-png_108: 187399646
+      58-587022_ruins-png-walls-transparent-png_109: 1194920927
+      58-587022_ruins-png-walls-transparent-png_11: 2102229665
+      58-587022_ruins-png-walls-transparent-png_110: 310862415
+      58-587022_ruins-png-walls-transparent-png_111: -1410790894
+      58-587022_ruins-png-walls-transparent-png_112: 958079784
+      58-587022_ruins-png-walls-transparent-png_113: -524724974
+      58-587022_ruins-png-walls-transparent-png_114: 1004602752
+      58-587022_ruins-png-walls-transparent-png_115: 1683611201
+      58-587022_ruins-png-walls-transparent-png_116: 403648204
+      58-587022_ruins-png-walls-transparent-png_117: 1707744751
+      58-587022_ruins-png-walls-transparent-png_118: 640940192
+      58-587022_ruins-png-walls-transparent-png_119: -1031926735
+      58-587022_ruins-png-walls-transparent-png_12: -661096802
+      58-587022_ruins-png-walls-transparent-png_120: 928393130
+      58-587022_ruins-png-walls-transparent-png_121: -1677999163
+      58-587022_ruins-png-walls-transparent-png_13: -1410312892
+      58-587022_ruins-png-walls-transparent-png_14: -1544158798
+      58-587022_ruins-png-walls-transparent-png_15: -88851088
+      58-587022_ruins-png-walls-transparent-png_16: 754913231
+      58-587022_ruins-png-walls-transparent-png_17: -1197049718
+      58-587022_ruins-png-walls-transparent-png_18: -1196576784
+      58-587022_ruins-png-walls-transparent-png_19: 1120394888
+      58-587022_ruins-png-walls-transparent-png_2: 458501513
+      58-587022_ruins-png-walls-transparent-png_20: 230420582
+      58-587022_ruins-png-walls-transparent-png_21: 1612869468
+      58-587022_ruins-png-walls-transparent-png_22: -484684180
+      58-587022_ruins-png-walls-transparent-png_23: 72761206
+      58-587022_ruins-png-walls-transparent-png_24: 1342983253
+      58-587022_ruins-png-walls-transparent-png_25: 741861802
+      58-587022_ruins-png-walls-transparent-png_26: 1259040069
+      58-587022_ruins-png-walls-transparent-png_27: -43699560
+      58-587022_ruins-png-walls-transparent-png_28: -528034306
+      58-587022_ruins-png-walls-transparent-png_29: -628001573
+      58-587022_ruins-png-walls-transparent-png_3: 1427379274
+      58-587022_ruins-png-walls-transparent-png_30: 2058207904
+      58-587022_ruins-png-walls-transparent-png_31: -1773305149
+      58-587022_ruins-png-walls-transparent-png_32: 915180080
+      58-587022_ruins-png-walls-transparent-png_33: -1654420502
+      58-587022_ruins-png-walls-transparent-png_34: 663322648
+      58-587022_ruins-png-walls-transparent-png_35: 1714214681
+      58-587022_ruins-png-walls-transparent-png_36: -537679737
+      58-587022_ruins-png-walls-transparent-png_37: -676956092
+      58-587022_ruins-png-walls-transparent-png_38: -1976919615
+      58-587022_ruins-png-walls-transparent-png_39: -1396024772
+      58-587022_ruins-png-walls-transparent-png_4: 311138239
+      58-587022_ruins-png-walls-transparent-png_40: 942103056
+      58-587022_ruins-png-walls-transparent-png_41: 1283166801
+      58-587022_ruins-png-walls-transparent-png_42: 1241003887
+      58-587022_ruins-png-walls-transparent-png_43: -1648781282
+      58-587022_ruins-png-walls-transparent-png_44: 370020024
+      58-587022_ruins-png-walls-transparent-png_45: -297892657
+      58-587022_ruins-png-walls-transparent-png_46: -996708620
+      58-587022_ruins-png-walls-transparent-png_47: 1339997602
+      58-587022_ruins-png-walls-transparent-png_48: -1753018188
+      58-587022_ruins-png-walls-transparent-png_49: -226020826
+      58-587022_ruins-png-walls-transparent-png_5: -135360290
+      58-587022_ruins-png-walls-transparent-png_50: -415642112
+      58-587022_ruins-png-walls-transparent-png_51: -878863202
+      58-587022_ruins-png-walls-transparent-png_52: 702660012
+      58-587022_ruins-png-walls-transparent-png_53: -462666611
+      58-587022_ruins-png-walls-transparent-png_54: 1914026375
+      58-587022_ruins-png-walls-transparent-png_55: -651597638
+      58-587022_ruins-png-walls-transparent-png_56: -958855595
+      58-587022_ruins-png-walls-transparent-png_57: -1402700999
+      58-587022_ruins-png-walls-transparent-png_58: 1528571289
+      58-587022_ruins-png-walls-transparent-png_59: -1708308498
+      58-587022_ruins-png-walls-transparent-png_6: -2132082026
+      58-587022_ruins-png-walls-transparent-png_60: -291991881
+      58-587022_ruins-png-walls-transparent-png_61: -860740640
+      58-587022_ruins-png-walls-transparent-png_62: 450818654
+      58-587022_ruins-png-walls-transparent-png_63: -966486679
+      58-587022_ruins-png-walls-transparent-png_64: -208169949
+      58-587022_ruins-png-walls-transparent-png_65: -33082734
+      58-587022_ruins-png-walls-transparent-png_66: -1490854346
+      58-587022_ruins-png-walls-transparent-png_67: 1908171125
+      58-587022_ruins-png-walls-transparent-png_68: -1524590698
+      58-587022_ruins-png-walls-transparent-png_69: -566488150
+      58-587022_ruins-png-walls-transparent-png_7: -511931718
+      58-587022_ruins-png-walls-transparent-png_70: -468105089
+      58-587022_ruins-png-walls-transparent-png_71: 1714132197
+      58-587022_ruins-png-walls-transparent-png_72: -940706679
+      58-587022_ruins-png-walls-transparent-png_73: -92422487
+      58-587022_ruins-png-walls-transparent-png_74: 1817420867
+      58-587022_ruins-png-walls-transparent-png_75: 51521041
+      58-587022_ruins-png-walls-transparent-png_76: 392446328
+      58-587022_ruins-png-walls-transparent-png_77: 1120251943
+      58-587022_ruins-png-walls-transparent-png_78: 1486810448
+      58-587022_ruins-png-walls-transparent-png_79: 1524127652
+      58-587022_ruins-png-walls-transparent-png_8: 1167281444
+      58-587022_ruins-png-walls-transparent-png_80: 1806319770
+      58-587022_ruins-png-walls-transparent-png_81: -1896909029
+      58-587022_ruins-png-walls-transparent-png_82: -233580311
+      58-587022_ruins-png-walls-transparent-png_83: -1276598512
+      58-587022_ruins-png-walls-transparent-png_84: -1025083655
+      58-587022_ruins-png-walls-transparent-png_85: 1071796213
+      58-587022_ruins-png-walls-transparent-png_86: -2063707664
+      58-587022_ruins-png-walls-transparent-png_87: -639759529
+      58-587022_ruins-png-walls-transparent-png_88: -761518097
+      58-587022_ruins-png-walls-transparent-png_89: 628713209
+      58-587022_ruins-png-walls-transparent-png_9: -694186240
+      58-587022_ruins-png-walls-transparent-png_90: 1925418412
+      58-587022_ruins-png-walls-transparent-png_91: -1995746613
+      58-587022_ruins-png-walls-transparent-png_92: -2002921979
+      58-587022_ruins-png-walls-transparent-png_93: 1322275108
+      58-587022_ruins-png-walls-transparent-png_94: -1921893085
+      58-587022_ruins-png-walls-transparent-png_95: -1348027399
+      58-587022_ruins-png-walls-transparent-png_96: 759866300
+      58-587022_ruins-png-walls-transparent-png_97: 1141655985
+      58-587022_ruins-png-walls-transparent-png_98: -1973994549
+      58-587022_ruins-png-walls-transparent-png_99: 2014846927
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -7,6 +7,7 @@ TagManager:
   - killzone
   - Coin
   - Enemy
+  - Ladder
   layers:
   - Default
   - TransparentFX
@@ -15,7 +16,7 @@ TagManager:
   - Water
   - UI
   - CameraBounds
-  - 
+  - Wall
   - 
   - 
   - 

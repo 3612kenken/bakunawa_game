@@ -9,26 +9,43 @@ public class PlayerController : MonoBehaviour
 {
     private float maxHPWidth;
     private float maxManaWidth;
+    // 🔒 Tutorial input lock
+    [HideInInspector] public bool inputLocked;
 
     [Header("Movement")]
     public float moveSpeed = 5f;
     public string PlayerName = "Kenz";
-    public float jumpForce = 10f;
+    public float jumpForce = 8f;
+
+    [Header("Jump Feel")]
+    public float fallMultiplier = 2.5f;
+    public float lowJumpMultiplier = 2f;
+
+    [Header("Jump Settings")]
+    public int maxJumps = 2;
+    private int jumpCount;
 
     [Header("Dash")]
     public float dashSpeed = 15f;
     public float dashDuration = 0.2f;
     private bool isDashing;
+    private float dashDirection;
 
     [Header("Wall")]
     public Transform wallCheck;
     public float wallCheckDistance = 0.4f;
     public LayerMask wallLayer;
+    public float wallJumpForceX = 8f;
+    public float wallJumpDuration = 0.1f; // 🟢 NEW: How long input is locked
     private bool isOnWall;
+    private bool isWallJumping; // 🟢 NEW: State to lock movement
 
     [Header("Ladder")]
     public float climbSpeed = 4f;
-    private bool isOnLadder;
+    private bool isOnLadder = false;
+
+    private bool isClimbing = false;
+
 
     [Header("Ground Check")]
     public LayerMask groundLayer;
@@ -78,6 +95,8 @@ public class PlayerController : MonoBehaviour
     private void Start()
     {
         rb = GetComponent<Rigidbody2D>();
+        rb.freezeRotation = true;
+
         footEmissions = footsteps.emission;
 
         maxHPWidth = HPUI.sizeDelta.x;
@@ -98,55 +117,102 @@ public class PlayerController : MonoBehaviour
 
     private void Update()
     {
-        isGrounded = IsGrounded();
-        isOnWall = IsTouchingWall() && !isGrounded && rb.linearVelocity.y <= 0;
 
+
+        isGrounded = IsGrounded();
+        isOnWall = IsTouchingWall() && !isGrounded;
+
+        if (isGrounded)
+        {
+            jumpCount = 0;
+            isWallJumping = false;
+
+        }
+
+        // INPUT
         if (!isAttacking && !isDashing)
         {
             if (controlmode == Controls.pc)
             {
-                moveX = Input.GetAxis("Horizontal");
+                moveX = Input.GetAxisRaw("Horizontal");
 
-                if (Input.GetButtonDown("Jump"))
+                if (Input.GetButtonDown("Jump") && !isOnLadder)
                     jumpPressed = true;
             }
         }
 
-        // Dash input
-        if (!isDashing && !isAttacking && Input.GetKeyDown(KeyCode.LeftShift))
+        // DASH
+        if (!isDashing && !isAttacking && isGrounded &&
+            Mathf.Abs(moveX) > 0.1f &&
+            Input.GetKeyDown(KeyCode.LeftShift))
+        {
             StartCoroutine(Dash());
+        }
 
-        // Attack input
+        // ATTACK
         if (!isAttacking && controlmode == Controls.pc && Input.GetButtonDown("Fire1"))
             HandleAttack();
 
-        // Ladder climbing
-        if (isOnLadder && Input.GetKey(KeyCode.W))
+        // ===== LADDER (AUTO ENTER CLIMB, PAUSE WHEN IDLE) =====
+        // ===== LADDER + STATE-AWARE ANIMATION CONTROL =====
+        if (isOnLadder)
         {
+            float climbInput = 0f;
+
+            if (Input.GetKey(KeyCode.W))
+                climbInput = 1f;
+            else if (Input.GetKey(KeyCode.S))
+                climbInput = -1f;
+
+            // Movement
             rb.gravityScale = 0;
-            rb.linearVelocity = new Vector2(rb.linearVelocity.x, climbSpeed);
+            rb.linearVelocity = new Vector2(rb.linearVelocity.x, climbInput * climbSpeed);
+
+            // Check if animator is currently in Climb state
+            AnimatorStateInfo state = playeranim.GetCurrentAnimatorStateInfo(0);
+            bool inClimbState = state.IsName("Climb");
+
+            // Resume animation if W, S, or A is pressed
+            bool inputForAnimation =
+                Input.GetKey(KeyCode.W) ||
+                Input.GetKey(KeyCode.S) ||
+                Input.GetKey(KeyCode.A);
+
+            if (inClimbState)
+            {
+                playeranim.speed = inputForAnimation ? 1f : 0f;
+                isClimbing = inputForAnimation;
+            }
         }
-        else if (!isOnLadder)
+        else
         {
             rb.gravityScale = 1;
+            playeranim.speed = 1f;
+            isClimbing = false;
         }
+        // =================================================
+
+        // ================================================
 
         UpdateAnimator();
 
-        if (moveX != 0 && !isAttacking)
+        if (moveX != 0 && !isAttacking && !isWallJumping && !isOnLadder)
             FlipSprite(moveX);
 
-        // Landing effect
         if (!wasonGround && isGrounded)
-        {
             ImpactEffect.Play();
-        }
 
         wasonGround = isGrounded;
+        if (inputLocked) return;
     }
+
+
+
 
     private void FixedUpdate()
     {
+
+
         if (isDashing) return;
 
         if (isAttacking)
@@ -155,44 +221,90 @@ public class PlayerController : MonoBehaviour
             return;
         }
 
-        rb.linearVelocity = new Vector2(moveX * moveSpeed, rb.linearVelocity.y);
+        // 🟢 CRITICAL FIX: Only apply movement velocity if NOT Wall Jumping
+        // This prevents your input from cancelling the wall kick force
+        if (!isWallJumping)
+        {
+            rb.linearVelocity = new Vector2(moveX * moveSpeed, rb.linearVelocity.y);
+        }
 
+        // JUMP + DOUBLE JUMP + WALL JUMP
         if (jumpPressed)
         {
-            if (isGrounded)
+            if (!isOnWall && jumpCount < maxJumps)
             {
+                // Normal Jump
                 rb.linearVelocity = new Vector2(rb.linearVelocity.x, 0);
                 rb.AddForce(Vector2.up * jumpForce, ForceMode2D.Impulse);
+                jumpCount++;
                 playeranim.SetTrigger("jump");
+                jumpPressed = false;
             }
             else if (isOnWall)
             {
-                rb.linearVelocity = Vector2.zero;
-                rb.AddForce(new Vector2(-transform.localScale.x * 8f, jumpForce),
-                    ForceMode2D.Impulse);
-                FlipSprite(-transform.localScale.x);
+                // Wall Jump
+                // 🟢 Set flag to stop movement input for a moment
+                StartCoroutine(StopMovementForWallJump());
+
+                rb.linearVelocity = Vector2.zero; // Reset current velocity for clean jump
+
+                // Determine direction AWAY from wall
+                float jumpDirection = -transform.localScale.x;
+
+                // Apply Force
+                rb.AddForce(
+                    new Vector2(jumpDirection * wallJumpForceX, jumpForce),
+                    ForceMode2D.Impulse
+                );
+
+                jumpCount = 1; // Reset double jump so you can jump again after leaving wall
+
+                // Force flip immediately
+                FlipSprite(jumpDirection);
+
                 playeranim.SetTrigger("jump");
+                jumpPressed = false;
             }
         }
 
+        // BETTER JUMP PHYSICS
+        if (rb.linearVelocity.y < 0)
+        {
+            rb.linearVelocity += Vector2.up * Physics2D.gravity.y *
+                                 (fallMultiplier - 1) * Time.fixedDeltaTime;
+        }
+        else if (rb.linearVelocity.y > 0 && !Input.GetButton("Jump"))
+        {
+            rb.linearVelocity += Vector2.up * Physics2D.gravity.y *
+                                 (lowJumpMultiplier - 1) * Time.fixedDeltaTime;
+        }
+
         jumpPressed = false;
+        if (inputLocked) return;
     }
 
-    // =========================
-    // DASH
-    // =========================
+    // 🟢 NEW COROUTINE: Locks input briefly
+    private IEnumerator StopMovementForWallJump()
+    {
+        isWallJumping = true;
+        yield return new WaitForSeconds(wallJumpDuration);
+        isWallJumping = false;
+    }
+
+    // ... [Rest of your code: Dash, Combat, Animations, etc. remain the same] ...
+
     private IEnumerator Dash()
     {
         isDashing = true;
+        dashDirection = transform.localScale.x;
+
         playeranim.SetTrigger("dash");
         playeranim.SetBool("isDashing", true);
 
-        float dir = transform.localScale.x;
         float timer = 0f;
-
         while (timer < dashDuration)
         {
-            rb.linearVelocity = new Vector2(dir * dashSpeed, 0);
+            rb.linearVelocity = new Vector2(dashDirection * dashSpeed, 0);
             timer += Time.deltaTime;
             yield return null;
         }
@@ -201,9 +313,6 @@ public class PlayerController : MonoBehaviour
         isDashing = false;
     }
 
-    // =========================
-    // COMBAT
-    // =========================
     private void HandleAttack()
     {
         if (Time.time - lastAttackTime < attackCooldown)
@@ -215,8 +324,7 @@ public class PlayerController : MonoBehaviour
         if (Time.time - lastComboTime > comboResetTime)
             comboStep = 0;
 
-        comboStep++;
-        comboStep = Mathf.Clamp(comboStep, 1, 3);
+        comboStep = Mathf.Clamp(++comboStep, 1, 3);
 
         playeranim.SetInteger("comboStep", comboStep);
         playeranim.SetTrigger("attack");
@@ -245,9 +353,6 @@ public class PlayerController : MonoBehaviour
             attackCollider.enabled = false;
     }
 
-    // =========================
-    // ANIMATION
-    // =========================
     private void UpdateAnimator()
     {
         playeranim.SetBool("run", moveX != 0 && isGrounded && !isAttacking);
@@ -261,9 +366,6 @@ public class PlayerController : MonoBehaviour
             (moveX != 0 && isGrounded && !isAttacking) ? 35f : 0f;
     }
 
-    // =========================
-    // COLLISIONS
-    // =========================
     private void OnTriggerEnter2D(Collider2D other)
     {
         if (other.CompareTag("Ladder"))
@@ -273,12 +375,14 @@ public class PlayerController : MonoBehaviour
     private void OnTriggerExit2D(Collider2D other)
     {
         if (other.CompareTag("Ladder"))
+        {
             isOnLadder = false;
+            playeranim.speed = 1f;
+        }
+
+
     }
 
-    // =========================
-    // HELPERS
-    // =========================
     private bool IsGrounded()
     {
         RaycastHit2D hit =
@@ -299,9 +403,6 @@ public class PlayerController : MonoBehaviour
         transform.localScale = new Vector3(direction > 0 ? 1 : -1, 1, 1);
     }
 
-    // =========================
-    // UI / DAMAGE
-    // =========================
     public void TakeDamage(int damage)
     {
         if (health <= 0) return;
@@ -314,7 +415,7 @@ public class PlayerController : MonoBehaviour
             StartCoroutine(DieWithAnimation());
     }
 
-    private void UpdateHPUI()
+    public void UpdateHPUI()
     {
         health = Mathf.Clamp(health, 0, maxHealth);
         HPUI.sizeDelta =
@@ -322,7 +423,7 @@ public class PlayerController : MonoBehaviour
         HPText.text = $"HP {health} / {maxHealth}";
     }
 
-    private void UpdateManaUI()
+    public void UpdateManaUI()
     {
         mana = Mathf.Clamp(mana, 0, maxMana);
         ManaUI.sizeDelta =
@@ -334,6 +435,13 @@ public class PlayerController : MonoBehaviour
     {
         playeranim.SetTrigger("death");
         yield return new WaitForSeconds(1.5f);
-        GameManager.instance.Death();
+        GameManager.instance.Death(); // Uncomment when GameManager is ready
+    }
+    private void OnCollisionEnter2D(Collision2D collision)
+    {
+        if (collision.gameObject.tag == "killzone")
+        {
+            StartCoroutine(DieWithAnimation());
+        }
     }
 }

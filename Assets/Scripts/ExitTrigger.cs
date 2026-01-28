@@ -6,6 +6,7 @@ using UnityEngine.SceneManagement;
 public class ExitTrigger : MonoBehaviour
 {
     //public Animator anim;
+    public GameObject Menu;
     private void OnTriggerEnter2D(Collider2D collision)
     {
         if (collision.gameObject.tag == "Player")
@@ -24,5 +25,30 @@ public class ExitTrigger : MonoBehaviour
         yield return new WaitForSeconds(2f);
         // Do something after flag anim
         GameManager.instance.LevelComplete();
+    }
+    void Update()
+    {
+        if (Input.GetKeyDown(KeyCode.Escape))
+        {
+            if (Menu.activeSelf)
+            {
+                HideMenu();
+            }
+            else
+            {
+                ShowMenu();
+            }
+        }
+    }
+
+    public void ShowMenu()
+    {
+        Menu.SetActive(true);
+        Time.timeScale = 0;
+    }
+    public void HideMenu()
+    {
+        Menu.SetActive(false);
+        Time.timeScale = 1;
     }
 }

@@ -1,0 +1,5029 @@
+fileFormatVersion: 2
+guid: 0d29c9572939a2f4c8f3eaa044319d20
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8996481086575143099
+    second: tilemap-zone2-floors_0
+  - first:
+      213: -5025237260245738402
+    second: tilemap-zone2-floors_1
+  - first:
+      213: 5145903744419901980
+    second: tilemap-zone2-floors_2
+  - first:
+      213: 6311467857525275404
+    second: tilemap-zone2-floors_3
+  - first:
+      213: 665415416404631965
+    second: tilemap-zone2-floors_4
+  - first:
+      213: -718550465414458130
+    second: tilemap-zone2-floors_5
+  - first:
+      213: -6939567773694334483
+    second: tilemap-zone2-floors_6
+  - first:
+      213: 4428587434607635182
+    second: tilemap-zone2-floors_7
+  - first:
+      213: -7519882676358651034
+    second: tilemap-zone2-floors_8
+  - first:
+      213: -7206464601236432714
+    second: tilemap-zone2-floors_9
+  - first:
+      213: -7863091720982915120
+    second: tilemap-zone2-floors_10
+  - first:
+      213: 8277257108273108292
+    second: tilemap-zone2-floors_11
+  - first:
+      213: 7083470893088908159
+    second: tilemap-zone2-floors_12
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: tilemap-zone2-floors_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1466
+        width: 100
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb8e4d102ebe9dc70800000000000000
+      internalID: 8996481086575143099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap-zone2-floors_1
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 1466
+        width: 100
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5cdefe2655c24ab0800000000000000
+      internalID: -5025237260245738402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap-zone2-floors_2
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 1466
+        width: 100
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c12308ef03ce96740800000000000000
+      internalID: 5145903744419901980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap-zone2-floors_3
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 1466
+        width: 100
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0bf61ba396d69750800000000000000
+      internalID: 6311467857525275404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap-zone2-floors_4
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 1466
+        width: 100
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d91edd2bbc70c3900800000000000000
+      internalID: 665415416404631965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap-zone2-floors_5
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 1466
+        width: 100
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee497c3a8223706f0800000000000000
+      internalID: -718550465414458130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap-zone2-floors_6
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 1466
+        width: 100
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de9633290e3b1bf90800000000000000
+      internalID: -6939567773694334483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap-zone2-floors_7
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 1466
+        width: 100
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eeaeb80eec0857d30800000000000000
+      internalID: 4428587434607635182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap-zone2-floors_8
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 1466
+        width: 100
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66367034c8204a790800000000000000
+      internalID: -7519882676358651034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap-zone2-floors_9
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 1466
+        width: 100
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b810ec60ae7dfb90800000000000000
+      internalID: -7206464601236432714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap-zone2-floors_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1396
+        width: 100
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d79f7e7dbfa0e290800000000000000
+      internalID: -7863091720982915120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap-zone2-floors_11
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 1396
+        width: 100
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44512353c79bed270800000000000000
+      internalID: 8277257108273108292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap-zone2-floors_12
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 1396
+        width: 100
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7322675f3b8d4260800000000000000
+      internalID: 7083470893088908159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap-zone2-floors_13
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 1396
+        width: 100
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b5d55639871afe4f8ce5805f7b00e6c
+      internalID: 1580114679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap-zone2-floors_14
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 1396
+        width: 100
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 560d483bfb5076d49a2fa29d58d896ec
+      internalID: -2025535386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap-zone2-floors_15
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 1396
+        width: 100
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6548b9bb039e3bb4ba08dd34933cf728
+      internalID: 1095766944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap-zone2-floors_16
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 1396
+        width: 100
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2694911d72c40834994b10929ada9842
+      internalID: -45775351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap-zone2-floors_22
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 1326
+        width: 100
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dad5c491cbc50546b692c133124c511
+      internalID: 396896022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap-zone2-floors_17
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 1396
+        width: 100
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a91edfcaf70ece49b06cd3c11766e24
+      internalID: -955106955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap-zone2-floors_18
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 1396
+        width: 100
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cb30dffe688de444b28d82cc889578c
+      internalID: 2137787201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap-zone2-floors_19
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 1396
+        width: 100
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d239a789889aadb47bf9514a07ea9c7e
+      internalID: 1309414825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap-zone2-floors_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1326
+        width: 100
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a3e711d1d004c741858b0c340c30604
+      internalID: 577251052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap-zone2-floors_21
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 1326
+        width: 100
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89f3a6ace52be264eb5f0b41c020091c
+      internalID: -1917767794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap-zone2-floors_23
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 1326
+        width: 100
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 420412491af6fb144b0be211f226b761
+      internalID: 251922606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap-zone2-floors_24
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 1326
+        width: 100
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73180f74d3db46d418c4a10f6eab62f2
+      internalID: 133758741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap-zone2-floors_25
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 1326
+        width: 100
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaf4eadcdef783b4faa7ad36515cf111
+      internalID: -1615436759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap-zone2-floors_26
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 1326
+        width: 100
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9374e8ac2e7593840869cbd56c74ff14
+      internalID: -242864807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap-zone2-floors_27
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 1326
+        width: 100
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16bfea9746c8ffa40b5a4cdd3ae7fd03
+      internalID: -1095677790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap-zone2-floors_28
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 1326
+        width: 100
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29f19427776e34f42925aa81cc7f4dd9
+      internalID: 1274516771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap-zone2-floors_29
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 1326
+        width: 100
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6338f8597c3eb0045a605437cd399d92
+      internalID: 1488117212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap-zone2-floors_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1256
+        width: 100
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74245e4d3fc6eca4ab0308914650e010
+      internalID: 284310190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap-zone2-floors_31
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 1256
+        width: 100
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e4b82cc5163150449e293b660750090
+      internalID: 2006210253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap-zone2-floors_32
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 1256
+        width: 100
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffc1f03c3912c234bafbb0d2d1b59a5f
+      internalID: -1339206702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap-zone2-floors_33
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 1256
+        width: 100
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3196877527ff34a438b7d01e4cac16f2
+      internalID: 1786347422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap-zone2-floors_34
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 1256
+        width: 100
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e3f7a4e814dacc4a8e43a338c6d673a
+      internalID: -330549012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap-zone2-floors_35
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 1256
+        width: 100
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2331fef48b436f740bf6952d40daaa99
+      internalID: -694030602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap-zone2-floors_36
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 1256
+        width: 100
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9927224eb547be1488cbe586e0548d91
+      internalID: 381153208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap-zone2-floors_37
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 1256
+        width: 100
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42a60849ac079de4b992b48b642ba696
+      internalID: 1981185215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap-zone2-floors_38
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 1256
+        width: 100
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc5fe8244d8c11d4d9333d9dda9508a4
+      internalID: -876748647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap-zone2-floors_39
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 1256
+        width: 100
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81984a7c8295e9b408bc319f5b5f6be9
+      internalID: -1917037147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap-zone2-floors_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1186
+        width: 100
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adc33ebedc05c284e9f258c56f91f736
+      internalID: -459796833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap-zone2-floors_41
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 1186
+        width: 100
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ebb93956c9852f4d9245117a08c4371
+      internalID: -498153880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap-zone2-floors_42
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 1186
+        width: 100
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 377cd48ebf6dfe64c83219fa98fdd10b
+      internalID: 1975243769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap-zone2-floors_43
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 1186
+        width: 100
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 625cf1da81b2d5246898b7162c9ea745
+      internalID: 181017946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap-zone2-floors_44
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 1186
+        width: 100
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 806c8b895f1404f4087e13e763495398
+      internalID: 130869011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap-zone2-floors_45
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 1186
+        width: 100
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3be3fae1dc86b734fa7eb3a669da6e38
+      internalID: -651849201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap-zone2-floors_46
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 1186
+        width: 100
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 212d1500669b7b5498e179383f25f102
+      internalID: -1476250398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap-zone2-floors_47
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 1186
+        width: 100
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdb02ebb4d68a874ea7a7ebeeb543a15
+      internalID: 99177935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap-zone2-floors_48
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 1186
+        width: 100
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8ae7533269836f4fa117bd3c1881b24
+      internalID: 1617252092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap-zone2-floors_49
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 1186
+        width: 100
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c261df8c57e14f049971d428ddccc37d
+      internalID: -1958584223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap-zone2-floors_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1116
+        width: 100
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d8f0a3e4018a714ead9ba47151c8978
+      internalID: 417419081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap-zone2-floors_51
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 1116
+        width: 100
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 857549ecb5771934fbf3fba7097a4504
+      internalID: 521467400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap-zone2-floors_52
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 1116
+        width: 100
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 316c1e3616bada54c9bddc06e9c869d6
+      internalID: 929096196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap-zone2-floors_53
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 1116
+        width: 100
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e4e779a671cf9547bef4742b1b49cc9
+      internalID: 224627549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap-zone2-floors_54
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 1116
+        width: 100
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b8f193e365222744ad715a7631de049
+      internalID: -747511639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap-zone2-floors_55
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 1116
+        width: 100
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e595d1d295bbbd1409fd27de46e375b3
+      internalID: -643310909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap-zone2-floors_56
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 1116
+        width: 100
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c38c4d108b7467429c346008d11419d
+      internalID: 865054239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap-zone2-floors_57
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 1116
+        width: 100
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 784c5641092a377478610f8f30eea004
+      internalID: -1618437973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap-zone2-floors_58
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 1116
+        width: 100
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6cbf230f55e193468ea847cd432345f
+      internalID: 1059358479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap-zone2-floors_59
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 1116
+        width: 100
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 367f9d195ce9d4246b4c1041d42f1c66
+      internalID: 367569841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap-zone2-floors_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1046
+        width: 100
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f60f5444ca1a274a928c715314b9136
+      internalID: -288139347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap-zone2-floors_61
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 1046
+        width: 100
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6657b5b8ae1117f4bb5166736af610ea
+      internalID: 1343812901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap-zone2-floors_62
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 1046
+        width: 100
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2c58342e436e3048b1d596a283ea5b7
+      internalID: -1078017985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap-zone2-floors_63
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 1046
+        width: 100
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6aef1059bca50241947542e39303802
+      internalID: 50102928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap-zone2-floors_64
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 1046
+        width: 100
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a448b8f34942d1642812e0f946967532
+      internalID: 540709448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap-zone2-floors_65
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 1046
+        width: 100
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d4c5364b5de43540a45fd85a5acb466
+      internalID: 901731852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap-zone2-floors_66
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 1046
+        width: 100
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cef0dae8b132b3943b12844ea1cf57f1
+      internalID: 1241637618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap-zone2-floors_67
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 1046
+        width: 100
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2d9670aadbf67d449b50529977ce640
+      internalID: -644745243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap-zone2-floors_68
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 1046
+        width: 100
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 209fb551172b65343b4b896f81b27a4f
+      internalID: -1500520780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap-zone2-floors_69
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 1046
+        width: 100
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 814520aba0551b14cac21408a3c7331a
+      internalID: -1555834924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap-zone2-floors_70
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 976
+        width: 100
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccc5b52eaf6aab243ac7feb0f1d079c3
+      internalID: -1361722890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap-zone2-floors_71
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 976
+        width: 100
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6312835e79065e4ea40487580cd96b6
+      internalID: 1604997414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap-zone2-floors_72
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 976
+        width: 100
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a3cb2947b4999f47ba6156421b93a1c
+      internalID: -1009376364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap-zone2-floors_73
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 976
+        width: 100
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54daf1bab97c40045b4a0eb3b6a557ce
+      internalID: -2091723056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap-zone2-floors_74
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 976
+        width: 100
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad43d1491c12fbe45a610fca8ad4b612
+      internalID: -815170622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap-zone2-floors_75
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 976
+        width: 100
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f4e1ce9f5c3ddd43beb5210d90f6c72
+      internalID: 235055490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap-zone2-floors_76
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 976
+        width: 100
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1e6a6445bb74c34ab7eaeb57cc52ed8
+      internalID: 116257166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap-zone2-floors_77
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 976
+        width: 100
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 984ba0c2e49b77a448a2eb6208f20962
+      internalID: 1343598783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap-zone2-floors_78
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 976
+        width: 100
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 429b929fe6fa56c46ba7bce0821b9473
+      internalID: 1923000796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap-zone2-floors_79
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 976
+        width: 100
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78212ca2e38b4a342961e9a1ce2362c9
+      internalID: -2128145669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap-zone2-floors_80
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 906
+        width: 100
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9140aab3b447d74e8606e99857b6054
+      internalID: 1077117842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap-zone2-floors_81
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 906
+        width: 100
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e75fe10f9ecce14d801e2bc0198a876
+      internalID: -1092627307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap-zone2-floors_82
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 906
+        width: 100
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2b6d9ad23cbd8646b60ba8a146c8ca7
+      internalID: -2070118335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap-zone2-floors_83
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 906
+        width: 100
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ae1110c5ec36784f82713f6b519aae0
+      internalID: -2017536152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap-zone2-floors_84
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 906
+        width: 100
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7607bd95217bde04ba81a9fbbb6fe0ad
+      internalID: 859898397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap-zone2-floors_85
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 906
+        width: 100
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1ac38f3239c20543b358e320706fa61
+      internalID: 1404078279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap-zone2-floors_86
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 906
+        width: 100
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 477d55dd7ed38b34da34beb09885fd70
+      internalID: -1161744629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap-zone2-floors_87
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 906
+        width: 100
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da1f09ac09a029c4bba133f8ff6d1f10
+      internalID: 62750681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap-zone2-floors_88
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 906
+        width: 100
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d41be185a0d1c0a4fa1ea78f34beb837
+      internalID: 1724475979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap-zone2-floors_89
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 906
+        width: 100
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ae388cb7e31cce4e88afdb3441d04c0
+      internalID: 811606029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap-zone2-floors_90
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 836
+        width: 100
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd558fd1fa265264f836802679d588d8
+      internalID: -1915097825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap-zone2-floors_91
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 836
+        width: 100
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11530eb491eae5041a5ae4eb388e4d6d
+      internalID: 1802749394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap-zone2-floors_92
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 836
+        width: 100
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c858da820ca23294c9dadd49dbefdc39
+      internalID: -2004834739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap-zone2-floors_93
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 836
+        width: 100
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee505739c88e2ae48a5ee877fd1ec96a
+      internalID: -310886419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap-zone2-floors_94
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 836
+        width: 100
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b2ba988ce6fa3e4ba9c6608141ae1be
+      internalID: 1934693841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap-zone2-floors_95
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 836
+        width: 100
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cf09baf32c4b4e4ca272312f88e8ac3
+      internalID: -1403159279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap-zone2-floors_96
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 836
+        width: 100
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a526a6f6b15c4046a0285fbc5893958
+      internalID: -926505419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap-zone2-floors_97
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 836
+        width: 100
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b51125ffe9f6825408cecd44e884733d
+      internalID: -440814809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap-zone2-floors_98
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 836
+        width: 100
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a27ae50683096940ac76091121de72d
+      internalID: -1508407645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap-zone2-floors_99
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 836
+        width: 100
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd34f42a1bde6414bba340f79645797f
+      internalID: 560145060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap-zone2-floors_100
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 766
+        width: 100
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37f39746852e24f4aac8378855fe0b18
+      internalID: 2022219776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap-zone2-floors_101
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 766
+        width: 100
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2fe1099d23b0b441a5ecf3b73d53292
+      internalID: 2022910556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap-zone2-floors_102
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 766
+        width: 100
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 975dff2b82fd1434cb7dc3bf10369670
+      internalID: -941142640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap-zone2-floors_103
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 766
+        width: 100
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f00d53915cbbd542be84c768865db0f
+      internalID: 532522323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap-zone2-floors_104
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 766
+        width: 100
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 544385af5347bc04784a9fb28502101f
+      internalID: 1235764511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap-zone2-floors_105
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 766
+        width: 100
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cedd0d44f23df3428fe76e230f1943c
+      internalID: 1071026119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap-zone2-floors_106
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 766
+        width: 100
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ddaf08a756d2524aa3bcdf672bcbe90
+      internalID: -1591766929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap-zone2-floors_107
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 766
+        width: 100
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4edd2c85bd91e3345b41d3087545f671
+      internalID: -1638805271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap-zone2-floors_108
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 766
+        width: 100
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82c70ec19f1aa594687349b1b1308d61
+      internalID: 1833947492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap-zone2-floors_109
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 766
+        width: 100
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6329e50180247e449af0c0f4bf697c10
+      internalID: 1739985616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap-zone2-floors_110
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 696
+        width: 100
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a414b5edde92b0145b3f05dafd2e6a0b
+      internalID: 1262384257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap-zone2-floors_111
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 696
+        width: 100
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c4063d529cf25f45940f2477b434fd2
+      internalID: 1733618828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap-zone2-floors_112
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 696
+        width: 100
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d6fe14ff0463974e92adcbfcf8705f4
+      internalID: 1600748304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap-zone2-floors_113
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 696
+        width: 100
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d01e80e961a504429f04ec689ac2c98
+      internalID: -571093414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap-zone2-floors_114
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 696
+        width: 100
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7aedfd52278d09c46a6873a82c126225
+      internalID: -2042781451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap-zone2-floors_115
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 696
+        width: 100
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7396f0e2c3491e44db1bc161c5521689
+      internalID: 1654248418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap-zone2-floors_116
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 696
+        width: 100
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dfe43128d4f25844a5a9472043336cd
+      internalID: 1163292827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap-zone2-floors_117
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 696
+        width: 100
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d659ebcb6fa07f40846af99b6333d5e
+      internalID: -1568327806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap-zone2-floors_118
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 696
+        width: 100
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecca93eca2cf1f74882fb4b7febe6e2b
+      internalID: -499024581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap-zone2-floors_119
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 696
+        width: 100
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b6816d80d5daf441861b0960662f624
+      internalID: -1132590783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap-zone2-floors_120
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 626
+        width: 100
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef2b2c09a4a162243b4867d8ab3ff41d
+      internalID: 1730061817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap-zone2-floors_121
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 626
+        width: 100
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fe5b5256d4e45b4b94c57083fcaa9fe
+      internalID: 580464686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap-zone2-floors_122
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 626
+        width: 100
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5ea7dea1663eee4cb43d832905bd110
+      internalID: 1504626459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap-zone2-floors_123
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 626
+        width: 100
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a16747c8e5e4a204b9afaa74e04f65e1
+      internalID: -229974315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap-zone2-floors_124
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 626
+        width: 100
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f2f99f747846fd4ba8d69dd91d26632
+      internalID: -267549273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap-zone2-floors_125
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 626
+        width: 100
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58ee47e990a53f14e8fa34590b61fc3d
+      internalID: -1439581602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap-zone2-floors_126
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 626
+        width: 100
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 844d411101ff1cc42ab5dd2138e8b698
+      internalID: -998132943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap-zone2-floors_127
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 626
+        width: 100
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a44682a35a4536c45b657f4719eec919
+      internalID: -1921923545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap-zone2-floors_128
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 626
+        width: 100
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9739a94f2c0746e4580add6f3c5eb337
+      internalID: -1226243867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap-zone2-floors_129
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 626
+        width: 100
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f9e65d593306264a8adc1703c962c6a
+      internalID: -1287089213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap-zone2-floors_130
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 556
+        width: 100
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb917eb6463e2754b940b1b2ff396ff5
+      internalID: -1337584049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap-zone2-floors_131
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 556
+        width: 100
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe751826e4e8bd44d952d1bf9e49c6c6
+      internalID: -1568746771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap-zone2-floors_132
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 556
+        width: 100
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4e9c837d4dc0d344923a9a4924a0721
+      internalID: -1369157527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap-zone2-floors_133
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 556
+        width: 100
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd5466e8af52b4c4d9188dbfbe0b8e5b
+      internalID: 1271340505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap-zone2-floors_134
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 556
+        width: 100
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6b17a01f77f0ab479312ef891de9dd1
+      internalID: -680724020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap-zone2-floors_135
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 556
+        width: 100
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fe8dc139d13d7f4985b7492de10ee37
+      internalID: -1911163765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap-zone2-floors_136
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 556
+        width: 100
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28b912138b190a84fb0d06e26a4d68ac
+      internalID: -1315018649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap-zone2-floors_137
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 556
+        width: 100
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23cd05bc9a0b8134794ab804849b8920
+      internalID: 2084732120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap-zone2-floors_138
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 556
+        width: 100
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9871edd1b460cba4087e079cac4503ab
+      internalID: 1550921636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap-zone2-floors_139
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 556
+        width: 100
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8264d237490ec7a4b808328a07a5e20e
+      internalID: -1891650869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap-zone2-floors_140
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 486
+        width: 100
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e47916d597d763468f35a6fd8a0cabc
+      internalID: 708143619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap-zone2-floors_141
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 486
+        width: 100
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b273de9c1023e714b8421c4dcfa6bd50
+      internalID: -866595131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap-zone2-floors_142
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 486
+        width: 100
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3f5dffa0efc09649b1e82f173dad2e4
+      internalID: -1490270629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap-zone2-floors_143
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 486
+        width: 100
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ded58724f3af75c449df8b7c4485bc27
+      internalID: -1464945434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap-zone2-floors_144
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 486
+        width: 100
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd2e51cb5f998a547b531047a56c2849
+      internalID: -718931617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap-zone2-floors_145
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 486
+        width: 100
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ade755d98a81ce04da82fab1ed8e7413
+      internalID: -203929331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap-zone2-floors_146
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 486
+        width: 100
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d618687d4de91f4eb93baefe58616c7
+      internalID: 1573925768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap-zone2-floors_147
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 486
+        width: 100
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c280f95caefed894aa2aa960de9072b5
+      internalID: -139326967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap-zone2-floors_148
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 486
+        width: 100
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32ccfab78f99367409253c3452f31ea1
+      internalID: -327703838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap-zone2-floors_149
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 486
+        width: 100
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2df511dc74acf84abdfe6e5e133710f
+      internalID: -42062063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap-zone2-floors_150
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 416
+        width: 100
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f24445393c2a9834db20a279a8b2c686
+      internalID: 810350195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap-zone2-floors_151
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 416
+        width: 100
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7679e9e40c1e6f4888b9bc30ca2d9c5
+      internalID: 3772135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap-zone2-floors_152
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 416
+        width: 100
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7e30567b287b684598f0811f3a9b29c
+      internalID: -1605879316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap-zone2-floors_153
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 416
+        width: 100
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 272b7027d6c1d044ab05d16d971122e9
+      internalID: -423815756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap-zone2-floors_154
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 416
+        width: 100
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c8974246fe3c2b4795b6e01f661d964
+      internalID: -1357242118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap-zone2-floors_155
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 416
+        width: 100
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b76d36d008fc92442b4f574815d92984
+      internalID: -999726884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap-zone2-floors_156
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 416
+        width: 100
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a30ebff88ab0e154e9f87d795eb9ea92
+      internalID: 1066794873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap-zone2-floors_157
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 416
+        width: 100
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3a39e3c4dabd04439fe9490049ac7c3
+      internalID: -441495399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap-zone2-floors_158
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 416
+        width: 100
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8624c0f82302454bae5850b8a054f43
+      internalID: -1460788552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap-zone2-floors_159
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 416
+        width: 100
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61fa02f8170e73d4286b588f36ac537f
+      internalID: 656667342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap-zone2-floors_160
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 346
+        width: 100
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bc75959755ac26429e46c640bfa6c5a
+      internalID: 1499881224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap-zone2-floors_161
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 346
+        width: 100
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f49fbb64f0a54994ca015c8e3c4428f4
+      internalID: -381446605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap-zone2-floors_162
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 346
+        width: 100
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e3d724e4c709d343a70a8007b7c4809
+      internalID: -2054155453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap-zone2-floors_163
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 346
+        width: 100
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8334878c9cd6b5c4d9898d3146ce0bea
+      internalID: 986505124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap-zone2-floors_164
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 346
+        width: 100
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fad82f981a5b52748a901ebee3811b73
+      internalID: -1740487436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap-zone2-floors_165
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 346
+        width: 100
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 424b380fdfb1c494e8aa6e3cfb2b9471
+      internalID: -28260256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap-zone2-floors_166
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 346
+        width: 100
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a55f1358a9bd244b808042fe67b0075
+      internalID: -1310522135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap-zone2-floors_167
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 346
+        width: 100
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3926756d61b7fc9408692258077baa76
+      internalID: -1242439047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap-zone2-floors_168
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 346
+        width: 100
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: beb487f371ffb8d46a4aaf2d3b8fbb63
+      internalID: 277532693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap-zone2-floors_169
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 346
+        width: 100
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c47cbe641d69b640b95af66a3cd07fb
+      internalID: 237643434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap-zone2-floors_170
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 276
+        width: 100
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af9b831601f043847bbe619111fd4748
+      internalID: -1140339528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap-zone2-floors_171
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 276
+        width: 100
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26d068f475164564cb826132475a7d77
+      internalID: 602930565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap-zone2-floors_172
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 276
+        width: 100
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02587003954e32b44bc085a434dbd3ba
+      internalID: 408199582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap-zone2-floors_173
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 276
+        width: 100
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6dd23b2d4990854a93bc5d6f47ae3d9
+      internalID: -1189151121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap-zone2-floors_174
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 276
+        width: 100
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07468ae5ada66574a9d7d0fb2700c55a
+      internalID: 1741051626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap-zone2-floors_175
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 276
+        width: 100
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 943caec126aedd541ae5beccb65bf797
+      internalID: 1843060137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap-zone2-floors_176
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 276
+        width: 100
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ae8528bc14e84d4585d3af975158fb1
+      internalID: 1929663956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap-zone2-floors_177
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 276
+        width: 100
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f117b0630457874cb0e5f340ea70421
+      internalID: 23677845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap-zone2-floors_178
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 276
+        width: 100
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32c7fe3dc27e38c46a951c1e6c34f1bb
+      internalID: -1641822221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap-zone2-floors_179
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 276
+        width: 100
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78e3bf3ce3f6f60498ac1e1cc6087fa7
+      internalID: -1011235740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap-zone2-floors_180
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 206
+        width: 100
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 505fa7da1e71537428f3b087daba7b36
+      internalID: 1714292759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap-zone2-floors_181
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 206
+        width: 100
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5268c12cd862f9847bb2e129076a5ed0
+      internalID: 1238783807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap-zone2-floors_182
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 206
+        width: 100
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5032bd5d528f5bf408f2d7883491e2e2
+      internalID: -1024387513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap-zone2-floors_183
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 206
+        width: 100
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac6f15ca531aa924a9b062e8879e9172
+      internalID: 827472421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap-zone2-floors_184
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 206
+        width: 100
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc6900c05c547404eb4f33eda5812da4
+      internalID: 1538643370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap-zone2-floors_185
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 206
+        width: 100
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5370e3228628c5b49bac0f85fdccbd26
+      internalID: 434000467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap-zone2-floors_186
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 206
+        width: 100
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1c611cf3ccf7a24db84da230512a4c2
+      internalID: 1979453916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap-zone2-floors_187
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 206
+        width: 100
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4543fae7f7b1a3840861e7e124700be5
+      internalID: 99746353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap-zone2-floors_188
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 206
+        width: 100
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fcf14072693ed94eaf77abe16c26edb
+      internalID: -1821390891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap-zone2-floors_189
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 206
+        width: 100
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b072f2cc3de82f64fa626dc112fc855d
+      internalID: 986304262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap-zone2-floors_190
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 136
+        width: 100
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df17b33c392f340488fc4b977ba5e864
+      internalID: 791532277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap-zone2-floors_191
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 136
+        width: 100
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 819d74620e180e344a264048ac62f94e
+      internalID: 894044006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap-zone2-floors_192
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 136
+        width: 100
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca31da4f36bbe5c40872ea163f456b3a
+      internalID: -812931004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap-zone2-floors_193
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 136
+        width: 100
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4489fb9ad41e98f41a1b0727104a5294
+      internalID: 729473269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap-zone2-floors_194
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 136
+        width: 100
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed17542bbd2f9d04285dbb26bc78920d
+      internalID: -1587624972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap-zone2-floors_195
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 136
+        width: 100
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52caad56cd932364faa993a3fcc9caf3
+      internalID: 1885365745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap-zone2-floors_196
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 136
+        width: 100
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5b713b981069cf46bf2e09d798f11a2
+      internalID: 1513561597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap-zone2-floors_197
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 136
+        width: 100
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63d0ee3cef23ca844a17f2ea187c69a6
+      internalID: -1122914795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap-zone2-floors_198
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 136
+        width: 100
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b01bad181a21b8c4aa2ee6c77a1911e9
+      internalID: 1438125803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap-zone2-floors_199
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 136
+        width: 100
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a6b17cc9d9a12040896d97e7ab164f1
+      internalID: -531091277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap-zone2-floors_200
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 66
+        width: 100
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d590641599c7d240aa699ae69222c5f
+      internalID: -231703793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap-zone2-floors_201
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 66
+        width: 100
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3e6d631c87b1eb4bb06e7d176c274a9
+      internalID: 1469277858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap-zone2-floors_202
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 66
+        width: 100
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 812adb494b934844fbc130833c8bbdf0
+      internalID: 1493000964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap-zone2-floors_203
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 66
+        width: 100
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45f08bb549f749e4db6fbacb288d7edf
+      internalID: -892188853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap-zone2-floors_204
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 66
+        width: 100
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bbef17cfebdcf54fb774fec58bd7477
+      internalID: 75459203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap-zone2-floors_205
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 66
+        width: 100
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 306bfa92a57e28449a6161da8bf5e602
+      internalID: 2091792520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap-zone2-floors_206
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 66
+        width: 100
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6aaad0d3b9127a645bf1189bbf94b9c3
+      internalID: -213081457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap-zone2-floors_207
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 66
+        width: 100
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6df9a418dd654c344ad6f0d6afaca355
+      internalID: 640080733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap-zone2-floors_208
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 66
+        width: 100
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b08af82178eda5458f09b7703eb5595
+      internalID: -960629280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap-zone2-floors_209
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 66
+        width: 100
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e61a610afbc6c634d9bd3f8f6de4bb0c
+      internalID: -666639426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 3463c4e8c319d3c44aabe9ea8f2747d9
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceOnImport
+        value: False
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":100.0,"y":70.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      tilemap-zone2-floors_0: 8996481086575143099
+      tilemap-zone2-floors_1: -5025237260245738402
+      tilemap-zone2-floors_10: -7863091720982915120
+      tilemap-zone2-floors_100: 2022219776
+      tilemap-zone2-floors_101: 2022910556
+      tilemap-zone2-floors_102: -941142640
+      tilemap-zone2-floors_103: 532522323
+      tilemap-zone2-floors_104: 1235764511
+      tilemap-zone2-floors_105: 1071026119
+      tilemap-zone2-floors_106: -1591766929
+      tilemap-zone2-floors_107: -1638805271
+      tilemap-zone2-floors_108: 1833947492
+      tilemap-zone2-floors_109: 1739985616
+      tilemap-zone2-floors_11: 8277257108273108292
+      tilemap-zone2-floors_110: 1262384257
+      tilemap-zone2-floors_111: 1733618828
+      tilemap-zone2-floors_112: 1600748304
+      tilemap-zone2-floors_113: -571093414
+      tilemap-zone2-floors_114: -2042781451
+      tilemap-zone2-floors_115: 1654248418
+      tilemap-zone2-floors_116: 1163292827
+      tilemap-zone2-floors_117: -1568327806
+      tilemap-zone2-floors_118: -499024581
+      tilemap-zone2-floors_119: -1132590783
+      tilemap-zone2-floors_12: 7083470893088908159
+      tilemap-zone2-floors_120: 1730061817
+      tilemap-zone2-floors_121: 580464686
+      tilemap-zone2-floors_122: 1504626459
+      tilemap-zone2-floors_123: -229974315
+      tilemap-zone2-floors_124: -267549273
+      tilemap-zone2-floors_125: -1439581602
+      tilemap-zone2-floors_126: -998132943
+      tilemap-zone2-floors_127: -1921923545
+      tilemap-zone2-floors_128: -1226243867
+      tilemap-zone2-floors_129: -1287089213
+      tilemap-zone2-floors_13: 1580114679
+      tilemap-zone2-floors_130: -1337584049
+      tilemap-zone2-floors_131: -1568746771
+      tilemap-zone2-floors_132: -1369157527
+      tilemap-zone2-floors_133: 1271340505
+      tilemap-zone2-floors_134: -680724020
+      tilemap-zone2-floors_135: -1911163765
+      tilemap-zone2-floors_136: -1315018649
+      tilemap-zone2-floors_137: 2084732120
+      tilemap-zone2-floors_138: 1550921636
+      tilemap-zone2-floors_139: -1891650869
+      tilemap-zone2-floors_14: -2025535386
+      tilemap-zone2-floors_140: 708143619
+      tilemap-zone2-floors_141: -866595131
+      tilemap-zone2-floors_142: -1490270629
+      tilemap-zone2-floors_143: -1464945434
+      tilemap-zone2-floors_144: -718931617
+      tilemap-zone2-floors_145: -203929331
+      tilemap-zone2-floors_146: 1573925768
+      tilemap-zone2-floors_147: -139326967
+      tilemap-zone2-floors_148: -327703838
+      tilemap-zone2-floors_149: -42062063
+      tilemap-zone2-floors_15: 1095766944
+      tilemap-zone2-floors_150: 810350195
+      tilemap-zone2-floors_151: 3772135
+      tilemap-zone2-floors_152: -1605879316
+      tilemap-zone2-floors_153: -423815756
+      tilemap-zone2-floors_154: -1357242118
+      tilemap-zone2-floors_155: -999726884
+      tilemap-zone2-floors_156: 1066794873
+      tilemap-zone2-floors_157: -441495399
+      tilemap-zone2-floors_158: -1460788552
+      tilemap-zone2-floors_159: 656667342
+      tilemap-zone2-floors_16: -45775351
+      tilemap-zone2-floors_160: 1499881224
+      tilemap-zone2-floors_161: -381446605
+      tilemap-zone2-floors_162: -2054155453
+      tilemap-zone2-floors_163: 986505124
+      tilemap-zone2-floors_164: -1740487436
+      tilemap-zone2-floors_165: -28260256
+      tilemap-zone2-floors_166: -1310522135
+      tilemap-zone2-floors_167: -1242439047
+      tilemap-zone2-floors_168: 277532693
+      tilemap-zone2-floors_169: 237643434
+      tilemap-zone2-floors_17: -955106955
+      tilemap-zone2-floors_170: -1140339528
+      tilemap-zone2-floors_171: 602930565
+      tilemap-zone2-floors_172: 408199582
+      tilemap-zone2-floors_173: -1189151121
+      tilemap-zone2-floors_174: 1741051626
+      tilemap-zone2-floors_175: 1843060137
+      tilemap-zone2-floors_176: 1929663956
+      tilemap-zone2-floors_177: 23677845
+      tilemap-zone2-floors_178: -1641822221
+      tilemap-zone2-floors_179: -1011235740
+      tilemap-zone2-floors_18: 2137787201
+      tilemap-zone2-floors_180: 1714292759
+      tilemap-zone2-floors_181: 1238783807
+      tilemap-zone2-floors_182: -1024387513
+      tilemap-zone2-floors_183: 827472421
+      tilemap-zone2-floors_184: 1538643370
+      tilemap-zone2-floors_185: 434000467
+      tilemap-zone2-floors_186: 1979453916
+      tilemap-zone2-floors_187: 99746353
+      tilemap-zone2-floors_188: -1821390891
+      tilemap-zone2-floors_189: 986304262
+      tilemap-zone2-floors_19: 1309414825
+      tilemap-zone2-floors_190: 791532277
+      tilemap-zone2-floors_191: 894044006
+      tilemap-zone2-floors_192: -812931004
+      tilemap-zone2-floors_193: 729473269
+      tilemap-zone2-floors_194: -1587624972
+      tilemap-zone2-floors_195: 1885365745
+      tilemap-zone2-floors_196: 1513561597
+      tilemap-zone2-floors_197: -1122914795
+      tilemap-zone2-floors_198: 1438125803
+      tilemap-zone2-floors_199: -531091277
+      tilemap-zone2-floors_2: 5145903744419901980
+      tilemap-zone2-floors_20: 577251052
+      tilemap-zone2-floors_200: -231703793
+      tilemap-zone2-floors_201: 1469277858
+      tilemap-zone2-floors_202: 1493000964
+      tilemap-zone2-floors_203: -892188853
+      tilemap-zone2-floors_204: 75459203
+      tilemap-zone2-floors_205: 2091792520
+      tilemap-zone2-floors_206: -213081457
+      tilemap-zone2-floors_207: 640080733
+      tilemap-zone2-floors_208: -960629280
+      tilemap-zone2-floors_209: -666639426
+      tilemap-zone2-floors_21: -1917767794
+      tilemap-zone2-floors_22: 396896022
+      tilemap-zone2-floors_23: 251922606
+      tilemap-zone2-floors_24: 133758741
+      tilemap-zone2-floors_25: -1615436759
+      tilemap-zone2-floors_26: -242864807
+      tilemap-zone2-floors_27: -1095677790
+      tilemap-zone2-floors_28: 1274516771
+      tilemap-zone2-floors_29: 1488117212
+      tilemap-zone2-floors_3: 6311467857525275404
+      tilemap-zone2-floors_30: 284310190
+      tilemap-zone2-floors_31: 2006210253
+      tilemap-zone2-floors_32: -1339206702
+      tilemap-zone2-floors_33: 1786347422
+      tilemap-zone2-floors_34: -330549012
+      tilemap-zone2-floors_35: -694030602
+      tilemap-zone2-floors_36: 381153208
+      tilemap-zone2-floors_37: 1981185215
+      tilemap-zone2-floors_38: -876748647
+      tilemap-zone2-floors_39: -1917037147
+      tilemap-zone2-floors_4: 665415416404631965
+      tilemap-zone2-floors_40: -459796833
+      tilemap-zone2-floors_41: -498153880
+      tilemap-zone2-floors_42: 1975243769
+      tilemap-zone2-floors_43: 181017946
+      tilemap-zone2-floors_44: 130869011
+      tilemap-zone2-floors_45: -651849201
+      tilemap-zone2-floors_46: -1476250398
+      tilemap-zone2-floors_47: 99177935
+      tilemap-zone2-floors_48: 1617252092
+      tilemap-zone2-floors_49: -1958584223
+      tilemap-zone2-floors_5: -718550465414458130
+      tilemap-zone2-floors_50: 417419081
+      tilemap-zone2-floors_51: 521467400
+      tilemap-zone2-floors_52: 929096196
+      tilemap-zone2-floors_53: 224627549
+      tilemap-zone2-floors_54: -747511639
+      tilemap-zone2-floors_55: -643310909
+      tilemap-zone2-floors_56: 865054239
+      tilemap-zone2-floors_57: -1618437973
+      tilemap-zone2-floors_58: 1059358479
+      tilemap-zone2-floors_59: 367569841
+      tilemap-zone2-floors_6: -6939567773694334483
+      tilemap-zone2-floors_60: -288139347
+      tilemap-zone2-floors_61: 1343812901
+      tilemap-zone2-floors_62: -1078017985
+      tilemap-zone2-floors_63: 50102928
+      tilemap-zone2-floors_64: 540709448
+      tilemap-zone2-floors_65: 901731852
+      tilemap-zone2-floors_66: 1241637618
+      tilemap-zone2-floors_67: -644745243
+      tilemap-zone2-floors_68: -1500520780
+      tilemap-zone2-floors_69: -1555834924
+      tilemap-zone2-floors_7: 4428587434607635182
+      tilemap-zone2-floors_70: -1361722890
+      tilemap-zone2-floors_71: 1604997414
+      tilemap-zone2-floors_72: -1009376364
+      tilemap-zone2-floors_73: -2091723056
+      tilemap-zone2-floors_74: -815170622
+      tilemap-zone2-floors_75: 235055490
+      tilemap-zone2-floors_76: 116257166
+      tilemap-zone2-floors_77: 1343598783
+      tilemap-zone2-floors_78: 1923000796
+      tilemap-zone2-floors_79: -2128145669
+      tilemap-zone2-floors_8: -7519882676358651034
+      tilemap-zone2-floors_80: 1077117842
+      tilemap-zone2-floors_81: -1092627307
+      tilemap-zone2-floors_82: -2070118335
+      tilemap-zone2-floors_83: -2017536152
+      tilemap-zone2-floors_84: 859898397
+      tilemap-zone2-floors_85: 1404078279
+      tilemap-zone2-floors_86: -1161744629
+      tilemap-zone2-floors_87: 62750681
+      tilemap-zone2-floors_88: 1724475979
+      tilemap-zone2-floors_89: 811606029
+      tilemap-zone2-floors_9: -7206464601236432714
+      tilemap-zone2-floors_90: -1915097825
+      tilemap-zone2-floors_91: 1802749394
+      tilemap-zone2-floors_92: -2004834739
+      tilemap-zone2-floors_93: -310886419
+      tilemap-zone2-floors_94: 1934693841
+      tilemap-zone2-floors_95: -1403159279
+      tilemap-zone2-floors_96: -926505419
+      tilemap-zone2-floors_97: -440814809
+      tilemap-zone2-floors_98: -1508407645
+      tilemap-zone2-floors_99: 560145060
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

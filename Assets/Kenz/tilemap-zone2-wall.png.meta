@@ -1,0 +1,1430 @@
+fileFormatVersion: 2
+guid: a9b1962742ea8b94d862157dcd933b19
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7780643040303338797
+    second: tilemap-zone2-wall_0
+  - first:
+      213: 4101217912776646165
+    second: tilemap-zone2-wall_1
+  - first:
+      213: 6947476045354325741
+    second: tilemap-zone2-wall_2
+  - first:
+      213: -7450779442059250531
+    second: tilemap-zone2-wall_3
+  - first:
+      213: 1704178902183436639
+    second: tilemap-zone2-wall_4
+  - first:
+      213: 3136702548486689107
+    second: tilemap-zone2-wall_5
+  - first:
+      213: -2144990604786121772
+    second: tilemap-zone2-wall_6
+  - first:
+      213: 3364006842904260547
+    second: tilemap-zone2-wall_7
+  - first:
+      213: 5988203077230670530
+    second: tilemap-zone2-wall_8
+  - first:
+      213: -3710576241982503626
+    second: tilemap-zone2-wall_9
+  - first:
+      213: 8603551476594677019
+    second: tilemap-zone2-wall_10
+  - first:
+      213: -4157630081325311378
+    second: tilemap-zone2-wall_11
+  - first:
+      213: -709113290994427048
+    second: tilemap-zone2-wall_12
+  - first:
+      213: -4487210952617899546
+    second: tilemap-zone2-wall_13
+  - first:
+      213: 3496687169359798404
+    second: tilemap-zone2-wall_14
+  - first:
+      213: 7011572755695388335
+    second: tilemap-zone2-wall_15
+  - first:
+      213: 6725026762263829701
+    second: tilemap-zone2-wall_16
+  - first:
+      213: -5462756788378198317
+    second: tilemap-zone2-wall_17
+  - first:
+      213: -7529393668584401576
+    second: tilemap-zone2-wall_18
+  - first:
+      213: -6405318595252905337
+    second: tilemap-zone2-wall_19
+  - first:
+      213: -2572603282086885601
+    second: tilemap-zone2-wall_20
+  - first:
+      213: -9010507287919999078
+    second: tilemap-zone2-wall_21
+  - first:
+      213: -4867447761058105947
+    second: tilemap-zone2-wall_22
+  - first:
+      213: 8139436303608767603
+    second: tilemap-zone2-wall_23
+  - first:
+      213: -3448597967088020367
+    second: tilemap-zone2-wall_24
+  - first:
+      213: -5957891905570243300
+    second: tilemap-zone2-wall_25
+  - first:
+      213: 2371721558404152152
+    second: tilemap-zone2-wall_26
+  - first:
+      213: -52849460795794641
+    second: tilemap-zone2-wall_27
+  - first:
+      213: 8298920565201375461
+    second: tilemap-zone2-wall_28
+  - first:
+      213: -6951271028918116760
+    second: tilemap-zone2-wall_29
+  - first:
+      213: -5727608885642136962
+    second: tilemap-zone2-wall_30
+  - first:
+      213: 5044968941040237146
+    second: tilemap-zone2-wall_31
+  - first:
+      213: 8386965218310124606
+    second: tilemap-zone2-wall_32
+  - first:
+      213: 3410911368891059829
+    second: tilemap-zone2-wall_33
+  - first:
+      213: -7341789617623277643
+    second: tilemap-zone2-wall_34
+  - first:
+      213: 8935744474225690440
+    second: tilemap-zone2-wall_35
+  - first:
+      213: 1974223205094279227
+    second: tilemap-zone2-wall_36
+  - first:
+      213: -5098882242899327999
+    second: tilemap-zone2-wall_37
+  - first:
+      213: 7581242849843145471
+    second: tilemap-zone2-wall_38
+  - first:
+      213: -6026101330996935437
+    second: tilemap-zone2-wall_39
+  - first:
+      213: 285180244059860346
+    second: tilemap-zone2-wall_40
+  - first:
+      213: 7151239933860846169
+    second: tilemap-zone2-wall_41
+  - first:
+      213: 1596202758573208622
+    second: tilemap-zone2-wall_42
+  - first:
+      213: -5141801926103632583
+    second: tilemap-zone2-wall_43
+  - first:
+      213: -7081918617648187944
+    second: tilemap-zone2-wall_44
+  - first:
+      213: -5820355843691320043
+    second: tilemap-zone2-wall_45
+  - first:
+      213: -324090277607828794
+    second: tilemap-zone2-wall_46
+  - first:
+      213: 4041841558809652090
+    second: tilemap-zone2-wall_47
+  - first:
+      213: 5046324586326214827
+    second: tilemap-zone2-wall_48
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: tilemap-zone2-wall_0
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 1391
+        width: 228
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3daaa92e06a950490800000000000000
+      internalID: -7780643040303338797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap-zone2-wall_1
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 1391
+        width: 125
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51e558566f37ae830800000000000000
+      internalID: 4101217912776646165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap-zone2-wall_2
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 1319
+        width: 106
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de651e867a46a6060800000000000000
+      internalID: 6947476045354325741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap-zone2-wall_3
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 1367
+        width: 218
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d947648c293899890800000000000000
+      internalID: -7450779442059250531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap-zone2-wall_4
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 1351
+        width: 115
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f51eb52bea576a710800000000000000
+      internalID: 1704178902183436639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap-zone2-wall_5
+      rect:
+        serializedVersion: 2
+        x: 878
+        y: 1311
+        width: 139
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3519c90595ec78b20800000000000000
+      internalID: 3136702548486689107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap-zone2-wall_6
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 1223
+        width: 110
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d34c2bd8667b32e0800000000000000
+      internalID: -2144990604786121772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap-zone2-wall_7
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 1354
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cfaa4d766a5fae20800000000000000
+      internalID: 3364006842904260547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap-zone2-wall_8
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 1319
+        width: 265
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c23c3dc8fe5a1350800000000000000
+      internalID: 5988203077230670530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap-zone2-wall_9
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 1207
+        width: 79
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63501a04192618cc0800000000000000
+      internalID: -3710576241982503626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap-zone2-wall_10
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 1207
+        width: 222
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1596310c74f56770800000000000000
+      internalID: 8603551476594677019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap-zone2-wall_11
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 1223
+        width: 180
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6a502718712d46c0800000000000000
+      internalID: -4157630081325311378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap-zone2-wall_12
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 1223
+        width: 194
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85bd4c80839b826f0800000000000000
+      internalID: -709113290994427048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap-zone2-wall_13
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 1207
+        width: 250
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e9c7f0b9693ab1c0800000000000000
+      internalID: -4487210952617899546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap-zone2-wall_14
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 839
+        width: 511
+        height: 383
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4806b5c447ab68030800000000000000
+      internalID: 3496687169359798404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap-zone2-wall_15
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 1119
+        width: 195
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa6c70cb54c1e4160800000000000000
+      internalID: 7011572755695388335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap-zone2-wall_16
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 1141
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cc1bb5a538145d50800000000000000
+      internalID: 6725026762263829701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap-zone2-wall_17
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 1110
+        width: 108
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3de1d56d4a36034b0800000000000000
+      internalID: -5462756788378198317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap-zone2-wall_18
+      rect:
+        serializedVersion: 2
+        x: 821
+        y: 1103
+        width: 172
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85593f1d958328790800000000000000
+      internalID: -7529393668584401576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap-zone2-wall_19
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 1015
+        width: 198
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78a1fb8acacbb17a0800000000000000
+      internalID: -6405318595252905337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap-zone2-wall_20
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 1016
+        width: 106
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f170537f1f64c4cd0800000000000000
+      internalID: -2572603282086885601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap-zone2-wall_21
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 1015
+        width: 146
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a97c5718c5f34f280800000000000000
+      internalID: -9010507287919999078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap-zone2-wall_22
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 847
+        width: 129
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a57c57dc0a537cb0800000000000000
+      internalID: -4867447761058105947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap-zone2-wall_23
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 846
+        width: 117
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 374e48c813615f070800000000000000
+      internalID: 8139436303608767603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap-zone2-wall_24
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 839
+        width: 230
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 174959e9b6e1420d0800000000000000
+      internalID: -3448597967088020367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap-zone2-wall_25
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 719
+        width: 120
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1d7f4ec0e0515da0800000000000000
+      internalID: -5957891905570243300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap-zone2-wall_26
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 719
+        width: 110
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85bb0d2013c0ae020800000000000000
+      internalID: 2371721558404152152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap-zone2-wall_27
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 719
+        width: 218
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2b12b602bd344ff0800000000000000
+      internalID: -52849460795794641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap-zone2-wall_28
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 631
+        width: 70
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e01304d840bb2370800000000000000
+      internalID: 8298920565201375461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap-zone2-wall_29
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 631
+        width: 74
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86e1fdf14df188f90800000000000000
+      internalID: -6951271028918116760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap-zone2-wall_30
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 631
+        width: 75
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e72fdee80127380b0800000000000000
+      internalID: -5727608885642136962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap-zone2-wall_31
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 711
+        width: 206
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5af491c584530640800000000000000
+      internalID: 5044968941040237146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap-zone2-wall_32
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 632
+        width: 210
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e347ee41e6c746470800000000000000
+      internalID: 8386965218310124606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap-zone2-wall_33
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 634
+        width: 240
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57ec71771ddf55f20800000000000000
+      internalID: 3410911368891059829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap-zone2-wall_34
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 629
+        width: 208
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bfd9e1cd39bc1a90800000000000000
+      internalID: -7341789617623277643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap-zone2-wall_35
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 444
+        width: 414
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 847c1e57144220c70800000000000000
+      internalID: 8935744474225690440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap-zone2-wall_36
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 444
+        width: 165
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b384afe8b89d56b10800000000000000
+      internalID: 1974223205094279227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap-zone2-wall_37
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 535
+        width: 354
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10440787d912d39b0800000000000000
+      internalID: -5098882242899327999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap-zone2-wall_38
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 457
+        width: 171
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffaeedc643cf53960800000000000000
+      internalID: 7581242849843145471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap-zone2-wall_39
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 415
+        width: 217
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f44b6164ccfe5ca0800000000000000
+      internalID: -6026101330996935437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap-zone2-wall_40
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 263
+        width: 268
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7da528cbe925f300800000000000000
+      internalID: 285180244059860346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap-zone2-wall_41
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 343
+        width: 287
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95a1d59b4de4e3360800000000000000
+      internalID: 7151239933860846169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap-zone2-wall_42
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 343
+        width: 406
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e24314ea3f9d62610800000000000000
+      internalID: 1596202758573208622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap-zone2-wall_43
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 263
+        width: 158
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9357c210466a4a8b0800000000000000
+      internalID: -5141801926103632583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap-zone2-wall_44
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 255
+        width: 244
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d5bad2f988f7bd90800000000000000
+      internalID: -7081918617648187944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap-zone2-wall_45
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 255
+        width: 246
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51de86e9231f93fa0800000000000000
+      internalID: -5820355843691320043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap-zone2-wall_46
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 8
+        width: 353
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c217001c99908bf0800000000000000
+      internalID: -324090277607828794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap-zone2-wall_47
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 13
+        width: 159
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7ba24fab71871830800000000000000
+      internalID: 4041841558809652090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap-zone2-wall_48
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 8
+        width: 510
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba84b458975280640800000000000000
+      internalID: 5046324586326214827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      tilemap-zone2-wall_0: -7780643040303338797
+      tilemap-zone2-wall_1: 4101217912776646165
+      tilemap-zone2-wall_10: 8603551476594677019
+      tilemap-zone2-wall_11: -4157630081325311378
+      tilemap-zone2-wall_12: -709113290994427048
+      tilemap-zone2-wall_13: -4487210952617899546
+      tilemap-zone2-wall_14: 3496687169359798404
+      tilemap-zone2-wall_15: 7011572755695388335
+      tilemap-zone2-wall_16: 6725026762263829701
+      tilemap-zone2-wall_17: -5462756788378198317
+      tilemap-zone2-wall_18: -7529393668584401576
+      tilemap-zone2-wall_19: -6405318595252905337
+      tilemap-zone2-wall_2: 6947476045354325741
+      tilemap-zone2-wall_20: -2572603282086885601
+      tilemap-zone2-wall_21: -9010507287919999078
+      tilemap-zone2-wall_22: -4867447761058105947
+      tilemap-zone2-wall_23: 8139436303608767603
+      tilemap-zone2-wall_24: -3448597967088020367
+      tilemap-zone2-wall_25: -5957891905570243300
+      tilemap-zone2-wall_26: 2371721558404152152
+      tilemap-zone2-wall_27: -52849460795794641
+      tilemap-zone2-wall_28: 8298920565201375461
+      tilemap-zone2-wall_29: -6951271028918116760
+      tilemap-zone2-wall_3: -7450779442059250531
+      tilemap-zone2-wall_30: -5727608885642136962
+      tilemap-zone2-wall_31: 5044968941040237146
+      tilemap-zone2-wall_32: 8386965218310124606
+      tilemap-zone2-wall_33: 3410911368891059829
+      tilemap-zone2-wall_34: -7341789617623277643
+      tilemap-zone2-wall_35: 8935744474225690440
+      tilemap-zone2-wall_36: 1974223205094279227
+      tilemap-zone2-wall_37: -5098882242899327999
+      tilemap-zone2-wall_38: 7581242849843145471
+      tilemap-zone2-wall_39: -6026101330996935437
+      tilemap-zone2-wall_4: 1704178902183436639
+      tilemap-zone2-wall_40: 285180244059860346
+      tilemap-zone2-wall_41: 7151239933860846169
+      tilemap-zone2-wall_42: 1596202758573208622
+      tilemap-zone2-wall_43: -5141801926103632583
+      tilemap-zone2-wall_44: -7081918617648187944
+      tilemap-zone2-wall_45: -5820355843691320043
+      tilemap-zone2-wall_46: -324090277607828794
+      tilemap-zone2-wall_47: 4041841558809652090
+      tilemap-zone2-wall_48: 5046324586326214827
+      tilemap-zone2-wall_5: 3136702548486689107
+      tilemap-zone2-wall_6: -2144990604786121772
+      tilemap-zone2-wall_7: 3364006842904260547
+      tilemap-zone2-wall_8: 5988203077230670530
+      tilemap-zone2-wall_9: -3710576241982503626
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
