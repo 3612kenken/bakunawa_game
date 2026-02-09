@@ -1,0 +1,1404 @@
+fileFormatVersion: 2
+guid: fa8ee76fa65371c4fad0572bc1da0708
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1392924380675824978
+    second: bakunawa_0
+  - first:
+      213: -6625499939376030685
+    second: bakunawa_1
+  - first:
+      213: -7441218406774405323
+    second: bakunawa_2
+  - first:
+      213: -6422187106162208969
+    second: bakunawa_3
+  - first:
+      213: 1249196862917693942
+    second: bakunawa_4
+  - first:
+      213: 8520523331701412105
+    second: bakunawa_5
+  - first:
+      213: 6496984781775146103
+    second: bakunawa_6
+  - first:
+      213: -8566660903010784852
+    second: bakunawa_7
+  - first:
+      213: -2741171886047735711
+    second: bakunawa_8
+  - first:
+      213: 7197246231334992670
+    second: bakunawa_9
+  - first:
+      213: 5104299101641546345
+    second: bakunawa_10
+  - first:
+      213: -1413629003480147468
+    second: bakunawa_11
+  - first:
+      213: 6668736042176015062
+    second: bakunawa_12
+  - first:
+      213: 8640123148035276991
+    second: bakunawa_13
+  - first:
+      213: 7369973825553358669
+    second: bakunawa_14
+  - first:
+      213: 8985102345666825450
+    second: bakunawa_15
+  - first:
+      213: 380400988580971042
+    second: bakunawa_16
+  - first:
+      213: 6412769438178786537
+    second: bakunawa_17
+  - first:
+      213: 762865279267243126
+    second: bakunawa_18
+  - first:
+      213: -1683997543850610680
+    second: bakunawa_19
+  - first:
+      213: -2671900339962906803
+    second: bakunawa_20
+  - first:
+      213: 1271340271270097794
+    second: bakunawa_21
+  - first:
+      213: -4396564603106804526
+    second: bakunawa_22
+  - first:
+      213: 4145696789717732854
+    second: bakunawa_23
+  - first:
+      213: -399421558424861697
+    second: bakunawa_24
+  - first:
+      213: -3818492846949912015
+    second: bakunawa_25
+  - first:
+      213: 1271200308661530355
+    second: bakunawa_26
+  - first:
+      213: -3609013095641493860
+    second: bakunawa_27
+  - first:
+      213: 9073814269392016783
+    second: bakunawa_28
+  - first:
+      213: -669225275527693906
+    second: bakunawa_29
+  - first:
+      213: -6965483904869165753
+    second: bakunawa_30
+  - first:
+      213: 8108837486344986308
+    second: bakunawa_31
+  - first:
+      213: 2656351496943835487
+    second: bakunawa_32
+  - first:
+      213: 6806710115757871249
+    second: bakunawa_33
+  - first:
+      213: 8142825644874910158
+    second: bakunawa_34
+  - first:
+      213: -1269622526010359577
+    second: bakunawa_35
+  - first:
+      213: -6493453980451141463
+    second: bakunawa_36
+  - first:
+      213: 6741997501933519591
+    second: bakunawa_37
+  - first:
+      213: 9065592173294867050
+    second: bakunawa_38
+  - first:
+      213: 6617653480067449015
+    second: bakunawa_39
+  - first:
+      213: 6063491428831436540
+    second: bakunawa_40
+  - first:
+      213: 1958510722324509828
+    second: bakunawa_41
+  - first:
+      213: 3162584742497345725
+    second: bakunawa_42
+  - first:
+      213: 5999654515516084616
+    second: bakunawa_43
+  - first:
+      213: 1379945370396479160
+    second: bakunawa_44
+  - first:
+      213: 1266112384408560912
+    second: bakunawa_45
+  - first:
+      213: 7438779169233632374
+    second: bakunawa_46
+  - first:
+      213: 9209134998343917767
+    second: bakunawa_47
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 80
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: bakunawa_0
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 9355
+        width: 2595
+        height: 1442
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea226d2e7a65bace0800000000000000
+      internalID: -1392924380675824978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bakunawa_1
+      rect:
+        serializedVersion: 2
+        x: 1737
+        y: 10779
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32c9e1698ee7d04a0800000000000000
+      internalID: -6625499939376030685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bakunawa_2
+      rect:
+        serializedVersion: 2
+        x: 4620
+        y: 9355
+        width: 2604
+        height: 1442
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5370d18c84b7bb890800000000000000
+      internalID: -7441218406774405323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bakunawa_3
+      rect:
+        serializedVersion: 2
+        x: 5737
+        y: 10779
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73f8b186adecfd6a0800000000000000
+      internalID: -6422187106162208969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bakunawa_4
+      rect:
+        serializedVersion: 2
+        x: 8613
+        y: 9355
+        width: 2611
+        height: 1442
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f1ddb4ade9065110800000000000000
+      internalID: 1249196862917693942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bakunawa_5
+      rect:
+        serializedVersion: 2
+        x: 9737
+        y: 10779
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9019d7693dafe3670800000000000000
+      internalID: 8520523331701412105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bakunawa_6
+      rect:
+        serializedVersion: 2
+        x: 12613
+        y: 9355
+        width: 2611
+        height: 1442
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77c83dc8c3de92a50800000000000000
+      internalID: 6496984781775146103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bakunawa_7
+      rect:
+        serializedVersion: 2
+        x: 13737
+        y: 10779
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca9a0dcfb4b1d1980800000000000000
+      internalID: -8566660903010784852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bakunawa_8
+      rect:
+        serializedVersion: 2
+        x: 16612
+        y: 9355
+        width: 2612
+        height: 1442
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16056d761b665f9d0800000000000000
+      internalID: -2741171886047735711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bakunawa_9
+      rect:
+        serializedVersion: 2
+        x: 17737
+        y: 10779
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1bbdb39051c1e360800000000000000
+      internalID: 7197246231334992670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bakunawa_10
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 7106
+        width: 2611
+        height: 1442
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96a90bc3dfc16d640800000000000000
+      internalID: 5104299101641546345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bakunawa_11
+      rect:
+        serializedVersion: 2
+        x: 1737
+        y: 8530
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f9506b39e7c16ce0800000000000000
+      internalID: -1413629003480147468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bakunawa_12
+      rect:
+        serializedVersion: 2
+        x: 4613
+        y: 7106
+        width: 2611
+        height: 1442
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6daeebe091c1c8c50800000000000000
+      internalID: 6668736042176015062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bakunawa_13
+      rect:
+        serializedVersion: 2
+        x: 5737
+        y: 8530
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb0c54ec932e7e770800000000000000
+      internalID: 8640123148035276991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bakunawa_14
+      rect:
+        serializedVersion: 2
+        x: 8612
+        y: 7106
+        width: 2612
+        height: 1442
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4fd8048528674660800000000000000
+      internalID: 7369973825553358669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bakunawa_15
+      rect:
+        serializedVersion: 2
+        x: 9737
+        y: 8530
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aec00007afe71bc70800000000000000
+      internalID: 8985102345666825450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bakunawa_16
+      rect:
+        serializedVersion: 2
+        x: 12611
+        y: 7106
+        width: 2613
+        height: 1447
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22283940fa4774500800000000000000
+      internalID: 380400988580971042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bakunawa_17
+      rect:
+        serializedVersion: 2
+        x: 16611
+        y: 7106
+        width: 2613
+        height: 1447
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ecb025e3dbbef850800000000000000
+      internalID: 6412769438178786537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bakunawa_18
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 4857
+        width: 2612
+        height: 1447
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 674043efded369a00800000000000000
+      internalID: 762865279267243126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bakunawa_19
+      rect:
+        serializedVersion: 2
+        x: 4611
+        y: 4857
+        width: 2613
+        height: 1453
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8007724f72d31a8e0800000000000000
+      internalID: -1683997543850610680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bakunawa_20
+      rect:
+        serializedVersion: 2
+        x: 8611
+        y: 4857
+        width: 2613
+        height: 1471
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d47f3411cc08bead0800000000000000
+      internalID: -2671900339962906803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bakunawa_21
+      rect:
+        serializedVersion: 2
+        x: 12629
+        y: 4858
+        width: 2646
+        height: 1495
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 283f3b9ad35b4a110800000000000000
+      internalID: 1271340271270097794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bakunawa_22
+      rect:
+        serializedVersion: 2
+        x: 16629
+        y: 4861
+        width: 2915
+        height: 1471
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dc33c799c34cf2c0800000000000000
+      internalID: -4396564603106804526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bakunawa_23
+      rect:
+        serializedVersion: 2
+        x: 16892
+        y: 5019
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fd4a91f349788930800000000000000
+      internalID: 4145696789717732854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bakunawa_24
+      rect:
+        serializedVersion: 2
+        x: 17815
+        y: 4859
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff304767538f47af0800000000000000
+      internalID: -399421558424861697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bakunawa_25
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 2614
+        width: 3033
+        height: 1600
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1323e28acfcf10bc0800000000000000
+      internalID: -3818492846949912015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bakunawa_26
+      rect:
+        serializedVersion: 2
+        x: 3659
+        y: 4063
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fe232412f534a110800000000000000
+      internalID: 1271200308661530355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bakunawa_27
+      rect:
+        serializedVersion: 2
+        x: 4629
+        y: 2612
+        width: 2921
+        height: 1561
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9e4e8cf5b53aedc0800000000000000
+      internalID: -3609013095641493860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bakunawa_28
+      rect:
+        serializedVersion: 2
+        x: 8629
+        y: 2610
+        width: 2790
+        height: 1490
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f855bfcb00aaced70800000000000000
+      internalID: 9073814269392016783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bakunawa_29
+      rect:
+        serializedVersion: 2
+        x: 12629
+        y: 2609
+        width: 2649
+        height: 1467
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea97579582f66b6f0800000000000000
+      internalID: -669225275527693906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bakunawa_30
+      rect:
+        serializedVersion: 2
+        x: 16629
+        y: 2609
+        width: 2595
+        height: 1441
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74592911b41a55f90800000000000000
+      internalID: -6965483904869165753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bakunawa_31
+      rect:
+        serializedVersion: 2
+        x: 17737
+        y: 4032
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ced6fa3bb0688070800000000000000
+      internalID: 8108837486344986308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bakunawa_32
+      rect:
+        serializedVersion: 2
+        x: 7544
+        y: 3969
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f591aedcc914dd420800000000000000
+      internalID: 2656351496943835487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bakunawa_33
+      rect:
+        serializedVersion: 2
+        x: 12814
+        y: 3282
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1905eca69ca467e50800000000000000
+      internalID: 6806710115757871249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bakunawa_34
+      rect:
+        serializedVersion: 2
+        x: 892
+        y: 2770
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec9c5be08c0210170800000000000000
+      internalID: 8142825644874910158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bakunawa_35
+      rect:
+        serializedVersion: 2
+        x: 4892
+        y: 2770
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e081521a05616ee0800000000000000
+      internalID: -1269622526010359577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bakunawa_36
+      rect:
+        serializedVersion: 2
+        x: 8892
+        y: 2770
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a80dd1320e92e5a0800000000000000
+      internalID: -6493453980451141463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bakunawa_37
+      rect:
+        serializedVersion: 2
+        x: 17821
+        y: 2608
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e28153e103609d50800000000000000
+      internalID: 6741997501933519591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bakunawa_38
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 359
+        width: 2612
+        height: 1442
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a625dcfcc047fcd70800000000000000
+      internalID: 9065592173294867050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bakunawa_39
+      rect:
+        serializedVersion: 2
+        x: 1737
+        y: 1783
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b04c0e37c0a6db50800000000000000
+      internalID: 6617653480067449015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bakunawa_40
+      rect:
+        serializedVersion: 2
+        x: 4616
+        y: 359
+        width: 2608
+        height: 1442
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfe9f1a2459d52450800000000000000
+      internalID: 6063491428831436540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bakunawa_41
+      rect:
+        serializedVersion: 2
+        x: 5737
+        y: 1783
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48432f410270e2b10800000000000000
+      internalID: 1958510722324509828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bakunawa_42
+      rect:
+        serializedVersion: 2
+        x: 8620
+        y: 359
+        width: 2604
+        height: 1442
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db0ef943112c3eb20800000000000000
+      internalID: 3162584742497345725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bakunawa_43
+      rect:
+        serializedVersion: 2
+        x: 9737
+        y: 1783
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 881976c8efd034350800000000000000
+      internalID: 5999654515516084616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bakunawa_44
+      rect:
+        serializedVersion: 2
+        x: 12624
+        y: 359
+        width: 2600
+        height: 1442
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8be4debc00d862310800000000000000
+      internalID: 1379945370396479160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bakunawa_45
+      rect:
+        serializedVersion: 2
+        x: 13737
+        y: 1783
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01525666182229110800000000000000
+      internalID: 1266112384408560912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bakunawa_46
+      rect:
+        serializedVersion: 2
+        x: 16629
+        y: 359
+        width: 2595
+        height: 1442
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67cfeb8fd3adb3760800000000000000
+      internalID: 7438779169233632374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bakunawa_47
+      rect:
+        serializedVersion: 2
+        x: 17737
+        y: 1783
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c028e82d7b6dcf70800000000000000
+      internalID: 9209134998343917767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: b6bd609f22ea19341baec2c55f9e6c32
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      bakunawa_0: -1392924380675824978
+      bakunawa_1: -6625499939376030685
+      bakunawa_10: 5104299101641546345
+      bakunawa_11: -1413629003480147468
+      bakunawa_12: 6668736042176015062
+      bakunawa_13: 8640123148035276991
+      bakunawa_14: 7369973825553358669
+      bakunawa_15: 8985102345666825450
+      bakunawa_16: 380400988580971042
+      bakunawa_17: 6412769438178786537
+      bakunawa_18: 762865279267243126
+      bakunawa_19: -1683997543850610680
+      bakunawa_2: -7441218406774405323
+      bakunawa_20: -2671900339962906803
+      bakunawa_21: 1271340271270097794
+      bakunawa_22: -4396564603106804526
+      bakunawa_23: 4145696789717732854
+      bakunawa_24: -399421558424861697
+      bakunawa_25: -3818492846949912015
+      bakunawa_26: 1271200308661530355
+      bakunawa_27: -3609013095641493860
+      bakunawa_28: 9073814269392016783
+      bakunawa_29: -669225275527693906
+      bakunawa_3: -6422187106162208969
+      bakunawa_30: -6965483904869165753
+      bakunawa_31: 8108837486344986308
+      bakunawa_32: 2656351496943835487
+      bakunawa_33: 6806710115757871249
+      bakunawa_34: 8142825644874910158
+      bakunawa_35: -1269622526010359577
+      bakunawa_36: -6493453980451141463
+      bakunawa_37: 6741997501933519591
+      bakunawa_38: 9065592173294867050
+      bakunawa_39: 6617653480067449015
+      bakunawa_4: 1249196862917693942
+      bakunawa_40: 6063491428831436540
+      bakunawa_41: 1958510722324509828
+      bakunawa_42: 3162584742497345725
+      bakunawa_43: 5999654515516084616
+      bakunawa_44: 1379945370396479160
+      bakunawa_45: 1266112384408560912
+      bakunawa_46: 7438779169233632374
+      bakunawa_47: 9209134998343917767
+      bakunawa_5: 8520523331701412105
+      bakunawa_6: 6496984781775146103
+      bakunawa_7: -8566660903010784852
+      bakunawa_8: -2741171886047735711
+      bakunawa_9: 7197246231334992670
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
