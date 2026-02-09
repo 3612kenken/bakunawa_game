@@ -1,0 +1,1404 @@
+fileFormatVersion: 2
+guid: 5c6fb6688380e3942a9d00ac596ca85f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2046033713696524404
+    second: Flagellant_0
+  - first:
+      213: 1138025887099576923
+    second: Flagellant_1
+  - first:
+      213: 4813611916223820613
+    second: Flagellant_2
+  - first:
+      213: -2304217811675102943
+    second: Flagellant_3
+  - first:
+      213: 3619723054303563818
+    second: Flagellant_4
+  - first:
+      213: 5771206486028112605
+    second: Flagellant_5
+  - first:
+      213: -8362816091740342917
+    second: Flagellant_6
+  - first:
+      213: 1062216424371189692
+    second: Flagellant_7
+  - first:
+      213: 6986247447224064858
+    second: Flagellant_8
+  - first:
+      213: -2342854742597452673
+    second: Flagellant_9
+  - first:
+      213: 5574322359377184808
+    second: Flagellant_10
+  - first:
+      213: 661192414578732985
+    second: Flagellant_11
+  - first:
+      213: -7002630759550681284
+    second: Flagellant_12
+  - first:
+      213: 7517760520832931002
+    second: Flagellant_13
+  - first:
+      213: -3012331097378458898
+    second: Flagellant_14
+  - first:
+      213: -8192857950495025098
+    second: Flagellant_15
+  - first:
+      213: 3048627099927177692
+    second: Flagellant_16
+  - first:
+      213: -4068890672819354526
+    second: Flagellant_17
+  - first:
+      213: 8578270220360096921
+    second: Flagellant_18
+  - first:
+      213: -1980422367169416819
+    second: Flagellant_19
+  - first:
+      213: -5657477923300570671
+    second: Flagellant_20
+  - first:
+      213: 6027527031294350884
+    second: Flagellant_21
+  - first:
+      213: 1587358191166251484
+    second: Flagellant_22
+  - first:
+      213: -968285317670152978
+    second: Flagellant_23
+  - first:
+      213: 2174466991156056824
+    second: Flagellant_24
+  - first:
+      213: 5863445360689022635
+    second: Flagellant_25
+  - first:
+      213: -3437437227373123468
+    second: Flagellant_26
+  - first:
+      213: 6276540270144910497
+    second: Flagellant_27
+  - first:
+      213: 8178762658595537189
+    second: Flagellant_28
+  - first:
+      213: 4728815524642796298
+    second: Flagellant_29
+  - first:
+      213: 5830765928046027954
+    second: Flagellant_30
+  - first:
+      213: -5767412255315444556
+    second: Flagellant_31
+  - first:
+      213: 3147787446170634415
+    second: Flagellant_32
+  - first:
+      213: -5596148988681413817
+    second: Flagellant_33
+  - first:
+      213: 4565417925202723704
+    second: Flagellant_34
+  - first:
+      213: 2803573854545487166
+    second: Flagellant_35
+  - first:
+      213: 7994992278228886297
+    second: Flagellant_36
+  - first:
+      213: 1233976364578642680
+    second: Flagellant_37
+  - first:
+      213: 2656603453603903118
+    second: Flagellant_38
+  - first:
+      213: -3309041857474622808
+    second: Flagellant_39
+  - first:
+      213: 2291679345991467493
+    second: Flagellant_40
+  - first:
+      213: -2936166158278348064
+    second: Flagellant_41
+  - first:
+      213: 6282268408647411022
+    second: Flagellant_42
+  - first:
+      213: -8265492904571717987
+    second: Flagellant_43
+  - first:
+      213: 787142957208122410
+    second: Flagellant_44
+  - first:
+      213: 5624196239579861567
+    second: Flagellant_45
+  - first:
+      213: 1618082914910714717
+    second: Flagellant_46
+  - first:
+      213: 6485144903424187409
+    second: Flagellant_47
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Flagellant_0
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 6665
+        width: 839
+        height: 592
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 478ca5f72d8f46c10800000000000000
+      internalID: 2046033713696524404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flagellant_1
+      rect:
+        serializedVersion: 2
+        x: 2231
+        y: 6664
+        width: 840
+        height: 592
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b52e4c9c3841bcf00800000000000000
+      internalID: 1138025887099576923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flagellant_2
+      rect:
+        serializedVersion: 2
+        x: 4151
+        y: 6663
+        width: 841
+        height: 592
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 543bb11c8826dc240800000000000000
+      internalID: 4813611916223820613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flagellant_3
+      rect:
+        serializedVersion: 2
+        x: 6071
+        y: 6662
+        width: 842
+        height: 592
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1214af9cb16c500e0800000000000000
+      internalID: -2304217811675102943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flagellant_4
+      rect:
+        serializedVersion: 2
+        x: 7992
+        y: 6661
+        width: 841
+        height: 592
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a205e0590f6db3230800000000000000
+      internalID: 3619723054303563818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flagellant_5
+      rect:
+        serializedVersion: 2
+        x: 9913
+        y: 6661
+        width: 841
+        height: 591
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd2d22dc8b1771050800000000000000
+      internalID: 5771206486028112605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flagellant_6
+      rect:
+        serializedVersion: 2
+        x: 11834
+        y: 6660
+        width: 841
+        height: 591
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7575e9921f41fb80800000000000000
+      internalID: -8362816091740342917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flagellant_7
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 5579
+        width: 841
+        height: 591
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb7fa39c530cdbe00800000000000000
+      internalID: 1062216424371189692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flagellant_8
+      rect:
+        serializedVersion: 2
+        x: 2237
+        y: 5579
+        width: 840
+        height: 590
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5b15ccd90324f060800000000000000
+      internalID: 6986247447224064858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flagellant_9
+      rect:
+        serializedVersion: 2
+        x: 4158
+        y: 5578
+        width: 840
+        height: 590
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7cb32b46028c7fd0800000000000000
+      internalID: -2342854742597452673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flagellant_10
+      rect:
+        serializedVersion: 2
+        x: 6080
+        y: 5578
+        width: 839
+        height: 589
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 828c13ed6a8fb5d40800000000000000
+      internalID: 5574322359377184808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flagellant_11
+      rect:
+        serializedVersion: 2
+        x: 8002
+        y: 5578
+        width: 838
+        height: 587
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bfe5277ff60d2900800000000000000
+      internalID: 661192414578732985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flagellant_12
+      rect:
+        serializedVersion: 2
+        x: 9925
+        y: 5578
+        width: 836
+        height: 586
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3ff1cbfc68a1de90800000000000000
+      internalID: -7002630759550681284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flagellant_13
+      rect:
+        serializedVersion: 2
+        x: 11847
+        y: 5578
+        width: 835
+        height: 585
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab4d3b6ec53745860800000000000000
+      internalID: 7517760520832931002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flagellant_14
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 4498
+        width: 833
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee2f4e2b3dc0236d0800000000000000
+      internalID: -3012331097378458898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flagellant_15
+      rect:
+        serializedVersion: 2
+        x: 2253
+        y: 4499
+        width: 831
+        height: 582
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63852850a1f1d4e80800000000000000
+      internalID: -8192857950495025098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flagellant_16
+      rect:
+        serializedVersion: 2
+        x: 4176
+        y: 4499
+        width: 829
+        height: 581
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd9e9cfe136ee4a20800000000000000
+      internalID: 3048627099927177692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flagellant_17
+      rect:
+        serializedVersion: 2
+        x: 6099
+        y: 4500
+        width: 827
+        height: 579
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 264c3b0bd756887c0800000000000000
+      internalID: -4068890672819354526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flagellant_18
+      rect:
+        serializedVersion: 2
+        x: 8023
+        y: 4500
+        width: 824
+        height: 578
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99c10e7d0532c0770800000000000000
+      internalID: 8578270220360096921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flagellant_19
+      rect:
+        serializedVersion: 2
+        x: 9947
+        y: 4501
+        width: 821
+        height: 576
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d81f0ab89502484e0800000000000000
+      internalID: -1980422367169416819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flagellant_20
+      rect:
+        serializedVersion: 2
+        x: 11871
+        y: 4502
+        width: 818
+        height: 574
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d90e09adc99c71b0800000000000000
+      internalID: -5657477923300570671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flagellant_21
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 3423
+        width: 815
+        height: 572
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4265d5656e316a350800000000000000
+      internalID: 6027527031294350884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flagellant_22
+      rect:
+        serializedVersion: 2
+        x: 2279
+        y: 3425
+        width: 812
+        height: 569
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd165cb5ddd670610800000000000000
+      internalID: 1587358191166251484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flagellant_23
+      rect:
+        serializedVersion: 2
+        x: 4204
+        y: 3426
+        width: 808
+        height: 567
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee45b0f32a5ff82f0800000000000000
+      internalID: -968285317670152978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flagellant_24
+      rect:
+        serializedVersion: 2
+        x: 6120
+        y: 3425
+        width: 811
+        height: 569
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f25ba725324d2e10800000000000000
+      internalID: 2174466991156056824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flagellant_25
+      rect:
+        serializedVersion: 2
+        x: 8035
+        y: 3423
+        width: 815
+        height: 572
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba608cb5d742f5150800000000000000
+      internalID: 5863445360689022635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flagellant_26
+      rect:
+        serializedVersion: 2
+        x: 9951
+        y: 3422
+        width: 818
+        height: 574
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 478a8b4dd05cb40d0800000000000000
+      internalID: -3437437227373123468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flagellant_27
+      rect:
+        serializedVersion: 2
+        x: 11867
+        y: 3421
+        width: 821
+        height: 576
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a4fb640f10ca1750800000000000000
+      internalID: 6276540270144910497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flagellant_28
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 2341
+        width: 824
+        height: 577
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52101d71e4dc08170800000000000000
+      internalID: 8178762658595537189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flagellant_29
+      rect:
+        serializedVersion: 2
+        x: 2260
+        y: 2340
+        width: 827
+        height: 579
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a03bfa25aa020a140800000000000000
+      internalID: 4728815524642796298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flagellant_30
+      rect:
+        serializedVersion: 2
+        x: 4177
+        y: 2339
+        width: 829
+        height: 581
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b462a508ba0be050800000000000000
+      internalID: 5830765928046027954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flagellant_31
+      rect:
+        serializedVersion: 2
+        x: 6094
+        y: 2339
+        width: 831
+        height: 582
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bc30b06c1906ffa0800000000000000
+      internalID: -5767412255315444556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flagellant_32
+      rect:
+        serializedVersion: 2
+        x: 8011
+        y: 2338
+        width: 833
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa84f6d21003fab20800000000000000
+      internalID: 3147787446170634415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flagellant_33
+      rect:
+        serializedVersion: 2
+        x: 9928
+        y: 2338
+        width: 835
+        height: 585
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74b9b7bf42c7652b0800000000000000
+      internalID: -5596148988681413817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flagellant_34
+      rect:
+        serializedVersion: 2
+        x: 11846
+        y: 2338
+        width: 836
+        height: 586
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 873c8e21a6f9b5f30800000000000000
+      internalID: 4565417925202723704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flagellant_35
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 1258
+        width: 838
+        height: 587
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e35a1c5119b48e620800000000000000
+      internalID: 2803573854545487166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flagellant_36
+      rect:
+        serializedVersion: 2
+        x: 2241
+        y: 1258
+        width: 839
+        height: 588
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 913e2d52e1be3fe60800000000000000
+      internalID: 7994992278228886297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flagellant_37
+      rect:
+        serializedVersion: 2
+        x: 4159
+        y: 1258
+        width: 840
+        height: 589
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fa10f737f6ff1110800000000000000
+      internalID: 1233976364578642680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flagellant_38
+      rect:
+        serializedVersion: 2
+        x: 6078
+        y: 1258
+        width: 840
+        height: 590
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e86f22904c62ed420800000000000000
+      internalID: 2656603453603903118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flagellant_39
+      rect:
+        serializedVersion: 2
+        x: 7996
+        y: 1259
+        width: 841
+        height: 590
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8aa835276fbe312d0800000000000000
+      internalID: -3309041857474622808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flagellant_40
+      rect:
+        serializedVersion: 2
+        x: 9915
+        y: 1259
+        width: 841
+        height: 591
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e1cbec293eadcf10800000000000000
+      internalID: 2291679345991467493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flagellant_41
+      rect:
+        serializedVersion: 2
+        x: 11834
+        y: 1260
+        width: 841
+        height: 591
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e2bb4e7f64a047d0800000000000000
+      internalID: -2936166158278348064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flagellant_42
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 181
+        width: 841
+        height: 591
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e45661135d91f2750800000000000000
+      internalID: 6282268408647411022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flagellant_43
+      rect:
+        serializedVersion: 2
+        x: 2232
+        y: 182
+        width: 841
+        height: 591
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d96bd79eef11b4d80800000000000000
+      internalID: -8265492904571717987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flagellant_44
+      rect:
+        serializedVersion: 2
+        x: 4151
+        y: 183
+        width: 841
+        height: 591
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2437df595e7cea00800000000000000
+      internalID: 787142957208122410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flagellant_45
+      rect:
+        serializedVersion: 2
+        x: 6071
+        y: 183
+        width: 840
+        height: 592
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f32de3f7ea82d0e40800000000000000
+      internalID: 5624196239579861567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flagellant_46
+      rect:
+        serializedVersion: 2
+        x: 7991
+        y: 184
+        width: 839
+        height: 592
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5bb16096d5947610800000000000000
+      internalID: 1618082914910714717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flagellant_47
+      rect:
+        serializedVersion: 2
+        x: 9911
+        y: 185
+        width: 839
+        height: 592
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11c988d0eecdff950800000000000000
+      internalID: 6485144903424187409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Flagellant_0: 2046033713696524404
+      Flagellant_1: 1138025887099576923
+      Flagellant_10: 5574322359377184808
+      Flagellant_11: 661192414578732985
+      Flagellant_12: -7002630759550681284
+      Flagellant_13: 7517760520832931002
+      Flagellant_14: -3012331097378458898
+      Flagellant_15: -8192857950495025098
+      Flagellant_16: 3048627099927177692
+      Flagellant_17: -4068890672819354526
+      Flagellant_18: 8578270220360096921
+      Flagellant_19: -1980422367169416819
+      Flagellant_2: 4813611916223820613
+      Flagellant_20: -5657477923300570671
+      Flagellant_21: 6027527031294350884
+      Flagellant_22: 1587358191166251484
+      Flagellant_23: -968285317670152978
+      Flagellant_24: 2174466991156056824
+      Flagellant_25: 5863445360689022635
+      Flagellant_26: -3437437227373123468
+      Flagellant_27: 6276540270144910497
+      Flagellant_28: 8178762658595537189
+      Flagellant_29: 4728815524642796298
+      Flagellant_3: -2304217811675102943
+      Flagellant_30: 5830765928046027954
+      Flagellant_31: -5767412255315444556
+      Flagellant_32: 3147787446170634415
+      Flagellant_33: -5596148988681413817
+      Flagellant_34: 4565417925202723704
+      Flagellant_35: 2803573854545487166
+      Flagellant_36: 7994992278228886297
+      Flagellant_37: 1233976364578642680
+      Flagellant_38: 2656603453603903118
+      Flagellant_39: -3309041857474622808
+      Flagellant_4: 3619723054303563818
+      Flagellant_40: 2291679345991467493
+      Flagellant_41: -2936166158278348064
+      Flagellant_42: 6282268408647411022
+      Flagellant_43: -8265492904571717987
+      Flagellant_44: 787142957208122410
+      Flagellant_45: 5624196239579861567
+      Flagellant_46: 1618082914910714717
+      Flagellant_47: 6485144903424187409
+      Flagellant_5: 5771206486028112605
+      Flagellant_6: -8362816091740342917
+      Flagellant_7: 1062216424371189692
+      Flagellant_8: 6986247447224064858
+      Flagellant_9: -2342854742597452673
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

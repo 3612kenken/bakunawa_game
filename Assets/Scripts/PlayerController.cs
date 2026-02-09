@@ -28,6 +28,7 @@ public class PlayerController : MonoBehaviour
     [Header("Dash")]
     public float dashSpeed = 15f;
     public float dashDuration = 0.2f;
+    private int AirDashCount = 0;
     private bool isDashing;
     private float dashDirection;
 
@@ -126,7 +127,7 @@ public class PlayerController : MonoBehaviour
         {
             jumpCount = 0;
             isWallJumping = false;
-
+            AirDashCount = 0;
         }
 
         // INPUT
@@ -142,11 +143,24 @@ public class PlayerController : MonoBehaviour
         }
 
         // DASH
-        if (!isDashing && !isAttacking && isGrounded &&
+        if (!isDashing && !isAttacking &&
             Mathf.Abs(moveX) > 0.1f &&
             Input.GetKeyDown(KeyCode.LeftShift))
         {
-            StartCoroutine(Dash());
+            if (!isGrounded)
+            {
+                if (AirDashCount < 2)
+                {
+                    AirDashCount++;
+                    StartCoroutine(Dash());
+                }
+            }
+            else
+            {
+                StartCoroutine(Dash());
+                // Reset air dash count when dashing from ground
+            }
+
         }
 
         // ATTACK

@@ -1,0 +1,780 @@
+fileFormatVersion: 2
+guid: fedfe6d2a8a3e9c46b37be38f6fd3a1a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -453448124374069238
+    second: aswang_0
+  - first:
+      213: -871534279373337162
+    second: aswang_1
+  - first:
+      213: -2597247136528839744
+    second: aswang_2
+  - first:
+      213: -2432489600585160778
+    second: aswang_3
+  - first:
+      213: -5654794947978174917
+    second: aswang_4
+  - first:
+      213: 3524052259660293287
+    second: aswang_5
+  - first:
+      213: 8104993611283889902
+    second: aswang_6
+  - first:
+      213: 7140775500354892280
+    second: aswang_7
+  - first:
+      213: -230501672578455035
+    second: aswang_8
+  - first:
+      213: 6553284093229296613
+    second: aswang_9
+  - first:
+      213: 7328282185468827672
+    second: aswang_10
+  - first:
+      213: 2243731412483030202
+    second: aswang_11
+  - first:
+      213: -2804731269151852550
+    second: aswang_12
+  - first:
+      213: 3795699523551115780
+    second: aswang_13
+  - first:
+      213: -2341910389468409267
+    second: aswang_14
+  - first:
+      213: 2563241502365092942
+    second: aswang_15
+  - first:
+      213: -5448958075191363613
+    second: aswang_16
+  - first:
+      213: -2682704956838229437
+    second: aswang_17
+  - first:
+      213: 7548180536370323669
+    second: aswang_18
+  - first:
+      213: 4789782132801290681
+    second: aswang_19
+  - first:
+      213: -424454116960468389
+    second: aswang_20
+  - first:
+      213: 3377586280805733856
+    second: aswang_21
+  - first:
+      213: 5054994861631542412
+    second: aswang_22
+  - first:
+      213: -8834399975763056587
+    second: aswang_23
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 180
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: aswang_0
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 4364
+        width: 743
+        height: 384
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a00dd96555705b9f0800000000000000
+      internalID: -453448124374069238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aswang_1
+      rect:
+        serializedVersion: 2
+        x: 2010
+        y: 4356
+        width: 710
+        height: 392
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bd4064c030b7e3f0800000000000000
+      internalID: -871534279373337162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aswang_2
+      rect:
+        serializedVersion: 2
+        x: 3568
+        y: 4349
+        width: 674
+        height: 398
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cb4c497d79b4fbd0800000000000000
+      internalID: -2597247136528839744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aswang_3
+      rect:
+        serializedVersion: 2
+        x: 5127
+        y: 4344
+        width: 636
+        height: 403
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b72a4d989f0e3ed0800000000000000
+      internalID: -2432489600585160778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aswang_4
+      rect:
+        serializedVersion: 2
+        x: 6683
+        y: 4341
+        width: 600
+        height: 406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3e561884f12681b0800000000000000
+      internalID: -5654794947978174917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aswang_5
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 3315
+        width: 619
+        height: 409
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a4e6f2ebd2f7e030800000000000000
+      internalID: 3524052259660293287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aswang_6
+      rect:
+        serializedVersion: 2
+        x: 2051
+        y: 3315
+        width: 647
+        height: 410
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eeef2635fb8ba7070800000000000000
+      internalID: 8104993611283889902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aswang_7
+      rect:
+        serializedVersion: 2
+        x: 3575
+        y: 3316
+        width: 675
+        height: 411
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f1377feb71291360800000000000000
+      internalID: 7140775500354892280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aswang_8
+      rect:
+        serializedVersion: 2
+        x: 5099
+        y: 3320
+        width: 703
+        height: 408
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50ae3d533f71dccf0800000000000000
+      internalID: -230501672578455035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aswang_9
+      rect:
+        serializedVersion: 2
+        x: 6620
+        y: 3325
+        width: 734
+        height: 405
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5eb66297921f1fa50800000000000000
+      internalID: 6553284093229296613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aswang_10
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 2308
+        width: 763
+        height: 399
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81851be12d943b560800000000000000
+      internalID: 7328282185468827672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aswang_11
+      rect:
+        serializedVersion: 2
+        x: 1984
+        y: 2316
+        width: 791
+        height: 392
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abcbf64f4d5532f10800000000000000
+      internalID: 2243731412483030202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aswang_12
+      rect:
+        serializedVersion: 2
+        x: 3533
+        y: 2309
+        width: 765
+        height: 398
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af7f5c355c79319d0800000000000000
+      internalID: -2804731269151852550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aswang_13
+      rect:
+        serializedVersion: 2
+        x: 5081
+        y: 2302
+        width: 739
+        height: 404
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40a326f2b980da430800000000000000
+      internalID: 3795699523551115780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aswang_14
+      rect:
+        serializedVersion: 2
+        x: 6631
+        y: 2297
+        width: 711
+        height: 408
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4250f3a8ecdf7fd0800000000000000
+      internalID: -2341910389468409267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aswang_15
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 1269
+        width: 685
+        height: 410
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4c8206d096729320800000000000000
+      internalID: 2563241502365092942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aswang_16
+      rect:
+        serializedVersion: 2
+        x: 2046
+        y: 1267
+        width: 659
+        height: 411
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e7f83c10896164b0800000000000000
+      internalID: -5448958075191363613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aswang_17
+      rect:
+        serializedVersion: 2
+        x: 3593
+        y: 1267
+        width: 633
+        height: 410
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34a4a7a2e0e15cad0800000000000000
+      internalID: -2682704956838229437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aswang_18
+      rect:
+        serializedVersion: 2
+        x: 5140
+        y: 1267
+        width: 608
+        height: 408
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d0eed2b43680c860800000000000000
+      internalID: 7548180536370323669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aswang_19
+      rect:
+        serializedVersion: 2
+        x: 6679
+        y: 1270
+        width: 609
+        height: 405
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b14221f879b87240800000000000000
+      internalID: 4789782132801290681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aswang_20
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 249
+        width: 645
+        height: 402
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b528e1fba390c1af0800000000000000
+      internalID: -424454116960468389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aswang_21
+      rect:
+        serializedVersion: 2
+        x: 2028
+        y: 254
+        width: 680
+        height: 397
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e598a1c3d89fde20800000000000000
+      internalID: 3377586280805733856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aswang_22
+      rect:
+        serializedVersion: 2
+        x: 3544
+        y: 260
+        width: 713
+        height: 392
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8419fc4b03f62640800000000000000
+      internalID: 5054994861631542412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aswang_23
+      rect:
+        serializedVersion: 2
+        x: 5062
+        y: 268
+        width: 743
+        height: 384
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5386ce85708e56580800000000000000
+      internalID: -8834399975763056587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      aswang_0: -453448124374069238
+      aswang_1: -871534279373337162
+      aswang_10: 7328282185468827672
+      aswang_11: 2243731412483030202
+      aswang_12: -2804731269151852550
+      aswang_13: 3795699523551115780
+      aswang_14: -2341910389468409267
+      aswang_15: 2563241502365092942
+      aswang_16: -5448958075191363613
+      aswang_17: -2682704956838229437
+      aswang_18: 7548180536370323669
+      aswang_19: 4789782132801290681
+      aswang_2: -2597247136528839744
+      aswang_20: -424454116960468389
+      aswang_21: 3377586280805733856
+      aswang_22: 5054994861631542412
+      aswang_23: -8834399975763056587
+      aswang_3: -2432489600585160778
+      aswang_4: -5654794947978174917
+      aswang_5: 3524052259660293287
+      aswang_6: 8104993611283889902
+      aswang_7: 7140775500354892280
+      aswang_8: -230501672578455035
+      aswang_9: 6553284093229296613
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
