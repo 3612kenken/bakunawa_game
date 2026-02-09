@@ -211,12 +211,12 @@ TextureImporter:
       name: aswang_0
       rect:
         serializedVersion: 2
-        x: 454
-        y: 4364
-        width: 743
-        height: 384
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 452
+        y: 4362
+        width: 746
+        height: 388
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -233,12 +233,12 @@ TextureImporter:
       name: aswang_1
       rect:
         serializedVersion: 2
-        x: 2010
-        y: 4356
-        width: 710
-        height: 392
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 2008
+        y: 4354
+        width: 713
+        height: 396
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -257,10 +257,10 @@ TextureImporter:
         serializedVersion: 2
         x: 3568
         y: 4349
-        width: 674
-        height: 398
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        width: 675
+        height: 399
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -277,12 +277,12 @@ TextureImporter:
       name: aswang_3
       rect:
         serializedVersion: 2
-        x: 5127
-        y: 4344
-        width: 636
-        height: 403
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 5125
+        y: 4342
+        width: 640
+        height: 405
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -299,12 +299,12 @@ TextureImporter:
       name: aswang_4
       rect:
         serializedVersion: 2
-        x: 6683
-        y: 4341
-        width: 600
-        height: 406
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 6681
+        y: 4339
+        width: 603
+        height: 408
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -322,11 +322,11 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 527
-        y: 3315
-        width: 619
+        y: 3314
+        width: 622
         height: 409
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -343,12 +343,12 @@ TextureImporter:
       name: aswang_6
       rect:
         serializedVersion: 2
-        x: 2051
-        y: 3315
-        width: 647
-        height: 410
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 2049
+        y: 3314
+        width: 652
+        height: 412
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -365,12 +365,12 @@ TextureImporter:
       name: aswang_7
       rect:
         serializedVersion: 2
-        x: 3575
-        y: 3316
-        width: 675
-        height: 411
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 3572
+        y: 3314
+        width: 680
+        height: 412
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -387,12 +387,12 @@ TextureImporter:
       name: aswang_8
       rect:
         serializedVersion: 2
-        x: 5099
-        y: 3320
-        width: 703
-        height: 408
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 5098
+        y: 3318
+        width: 705
+        height: 412
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -409,12 +409,12 @@ TextureImporter:
       name: aswang_9
       rect:
         serializedVersion: 2
-        x: 6620
+        x: 6619
         y: 3325
-        width: 734
+        width: 737
         height: 405
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -431,12 +431,12 @@ TextureImporter:
       name: aswang_10
       rect:
         serializedVersion: 2
-        x: 462
-        y: 2308
-        width: 763
+        x: 460
+        y: 2307
+        width: 768
         height: 399
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -453,12 +453,12 @@ TextureImporter:
       name: aswang_11
       rect:
         serializedVersion: 2
-        x: 1984
+        x: 1982
         y: 2316
-        width: 791
-        height: 392
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        width: 795
+        height: 394
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -475,12 +475,12 @@ TextureImporter:
       name: aswang_12
       rect:
         serializedVersion: 2
-        x: 3533
+        x: 3531
         y: 2309
-        width: 765
-        height: 398
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        width: 768
+        height: 399
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -497,12 +497,12 @@ TextureImporter:
       name: aswang_13
       rect:
         serializedVersion: 2
-        x: 5081
-        y: 2302
-        width: 739
-        height: 404
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 5080
+        y: 2301
+        width: 742
+        height: 405
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -519,12 +519,12 @@ TextureImporter:
       name: aswang_14
       rect:
         serializedVersion: 2
-        x: 6631
-        y: 2297
-        width: 711
-        height: 408
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 6629
+        y: 2296
+        width: 715
+        height: 410
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -541,12 +541,12 @@ TextureImporter:
       name: aswang_15
       rect:
         serializedVersion: 2
-        x: 499
-        y: 1269
-        width: 685
-        height: 410
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 497
+        y: 1270
+        width: 690
+        height: 409
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -564,11 +564,11 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 2046
-        y: 1267
-        width: 659
-        height: 411
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        y: 1266
+        width: 660
+        height: 412
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -585,12 +585,12 @@ TextureImporter:
       name: aswang_17
       rect:
         serializedVersion: 2
-        x: 3593
-        y: 1267
-        width: 633
-        height: 410
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 3591
+        y: 1266
+        width: 637
+        height: 412
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -607,12 +607,12 @@ TextureImporter:
       name: aswang_18
       rect:
         serializedVersion: 2
-        x: 5140
-        y: 1267
-        width: 608
-        height: 408
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 5139
+        y: 1266
+        width: 612
+        height: 409
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -629,12 +629,12 @@ TextureImporter:
       name: aswang_19
       rect:
         serializedVersion: 2
-        x: 6679
+        x: 6677
         y: 1270
-        width: 609
+        width: 611
         height: 405
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -651,12 +651,12 @@ TextureImporter:
       name: aswang_20
       rect:
         serializedVersion: 2
-        x: 513
+        x: 512
         y: 249
-        width: 645
+        width: 648
         height: 402
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -673,12 +673,12 @@ TextureImporter:
       name: aswang_21
       rect:
         serializedVersion: 2
-        x: 2028
-        y: 254
-        width: 680
-        height: 397
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 2027
+        y: 253
+        width: 682
+        height: 400
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -695,12 +695,12 @@ TextureImporter:
       name: aswang_22
       rect:
         serializedVersion: 2
-        x: 3544
-        y: 260
-        width: 713
-        height: 392
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 3542
+        y: 259
+        width: 716
+        height: 395
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -717,12 +717,12 @@ TextureImporter:
       name: aswang_23
       rect:
         serializedVersion: 2
-        x: 5062
-        y: 268
-        width: 743
-        height: 384
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 5061
+        y: 266
+        width: 746
+        height: 388
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -739,7 +739,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 1094af5e898782945a0295b8996cb038
     internalID: 0
     vertices: []
     indices: 
@@ -747,7 +747,9 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     spriteCustomMetadata:
-      entries: []
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.0},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":7,"pivotUnitMode":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
     nameFileIdTable:
       aswang_0: -453448124374069238
       aswang_1: -871534279373337162
