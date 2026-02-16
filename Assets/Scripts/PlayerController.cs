@@ -406,19 +406,11 @@ public class PlayerController : MonoBehaviour
 
     private bool IsTouchingWall()
     {
-        if (wallCheck != null)
-        {
-            Vector2 dir = transform.localScale.x > 0 ? Vector2.right : Vector2.left;
-
-            RaycastHit2D hit =
-                Physics2D.Raycast(wallCheck.position, dir, wallCheckDistance, wallLayer);
-
-            return hit.collider != null;
-        }
-
-        return false; // No wallCheck assigned → not touching wall
+        Vector2 dir = transform.localScale.x > 0 ? Vector2.right : Vector2.left;
+        RaycastHit2D hit =
+            Physics2D.Raycast(wallCheck.position, dir, wallCheckDistance, wallLayer);
+        return hit.collider != null;
     }
-
 
     private void FlipSprite(float direction)
     {
