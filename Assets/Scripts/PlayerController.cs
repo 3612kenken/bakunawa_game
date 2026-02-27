@@ -404,13 +404,14 @@ public class PlayerController : MonoBehaviour
         return hit.collider != null;
     }
 
-    private bool IsTouchingWall()
-    {
-        Vector2 dir = transform.localScale.x > 0 ? Vector2.right : Vector2.left;
-        RaycastHit2D hit =
-            Physics2D.Raycast(wallCheck.position, dir, wallCheckDistance, wallLayer);
-        return hit.collider != null;
-    }
+   private bool IsTouchingWall()
+{
+    if (wallCheck == null) return false;
+
+    Vector2 dir = transform.localScale.x > 0 ? Vector2.right : Vector2.left;
+    RaycastHit2D hit = Physics2D.Raycast(wallCheck.position, dir, wallCheckDistance, wallLayer);
+    return hit.collider != null;
+}
 
     private void FlipSprite(float direction)
     {
